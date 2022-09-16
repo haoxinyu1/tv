@@ -72,11 +72,11 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+			"ext": "3781469b13074e4cac1e0e7113e4fa20"
 		},		
 		{"key":"t4public",
 "name":"T4公共",
-"type":4,            "api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",
+"type":4,            "api":"https://t4.secan.icu/vod?sites=all&ali_token=3781469b13074e4cac1e0e7113e4fa20&timeout=10",
   "searchable":1,
   "quickSearch":1,
   "filterable":0},
@@ -745,7 +745,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+			"ext": "3781469b13074e4cac1e0e7113e4fa20"
 		}, 
 		 {
 			"key": "AliPS",
@@ -755,9 +755,9 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+			"ext": "3781469b13074e4cac1e0e7113e4fa20"
 		},
-		{"key":"csp_Alips","name":"喵搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
+		{"key":"csp_Alips","name":"喵搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext": "3781469b13074e4cac1e0e7113e4fa20"},
 		{
 			"key": "zhaozy",
 			"name": "找资源(仅搜索)",
@@ -766,7 +766,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+			"ext": "3781469b13074e4cac1e0e7113e4fa20"
 		}, 
 {
       "key": "csp_xpath_cls",
