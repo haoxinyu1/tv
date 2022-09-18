@@ -193,7 +193,7 @@
 {"key":"网易CC","name":"网易CC" ,"type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/ -/raw/main/json/%E7%BD%91%E6%98%93CC.json"},
 		{"key":"csp_xpath_酷狗MV","name":"酷狗MV"," type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/ raw/main/json/%E9%85%B7%E7%8B%97MV.json"},
 		{"key":"csp_xpath_kuqimv","name":"酷奇MV","type":3," api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E9%85%B7%E5 %A5%87MV.json"},
-		{"key":"ASMR","name":"ASMR19","type":1,"api":"http://www.asmr19.in/api. php/provide/vod/","searchable":0,"quickSearch":0},	
+		
 	{"key":"csp_XYQHiker_视频", "name":"氢视频","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E6%B0 %A2%E8%A7%86%E9%A2%91.json"},
 	
 		//{"key": "csp_Tkys","name": "天空影视（SP）","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
