@@ -66,11 +66,11 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "7bb5b24ca3274ad781a6071082e9eebd"
+			"ext": "8f0b3f0dc1834f309f077ea5549e99a8"
 		},		
 		{"key":"t4public",
 "name":"T4公共",
-"type":4,            "api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10",
+"type":4,            "api":"https://t4.secan.icu/vod?sites=all&ali_token=8f0b3f0dc1834f309f077ea5549e99a8&timeout=10",
   "searchable":1,
   "quickSearch":1,
   "filterable":0},
