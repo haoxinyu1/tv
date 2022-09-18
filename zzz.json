@@ -10,7 +10,6 @@
 	//"lives": [{"group": "redirect","channels": [{"name": "live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcGxheWdheW1lL2JveFJlcG9zaXRvcnkvcmF3L2JyYW5jaC9tYWluL1RWQm94L3p5L3R2L3piLnR4dA=="]}]}],（备份直播源）
 	//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
 	//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vTWlrZTkwNi96eWsvcmF3L2JyYW5jaC9tYWluL2xpdmVzL3oxLnR4dA=="]}]}],
-	//备用（ziyong）  "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9xMjg0ODU1NjQ2L3l5ZHN5cy8tL3Jhdy9tYXN0ZXIvbGl2ZS50eHQ="]}]}],
 	
 	"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby96aGFuZ2hvbmcxOTgzL1RWQk9YWlkvbWFpbi9UVi9UVi50eHQ="]}] }],
 	
