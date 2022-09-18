@@ -422,7 +422,7 @@
 		{"key":"csp_xp_nmys","name":"农民影视","type": 3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/nmys2.json"},
 {"key":"csp_xp_gongreng","name":"工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/gongreng.json"},
 		//{"key":"csp_xp_bidiys","name":"Bidi影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/bidiys2.json"},
-{"key":"csp_xpath_chinatv ","name":"中国电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https ://gitcode。net/qq_26898231/TVBox/-/raw/main/json/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1.json"},
+
 {"key":"csp_xp_mozhatu","name":"莫扎兔","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/mozhatu.json"},
 		{"key":"csp_xp_jLgyy","name":"蓝光影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.json"},
 		{"key":"csp_xpath_dianyingn","name":"电影牛XP","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E7%94%B5%E5%BD%B1%E7%89%9B.json"},
