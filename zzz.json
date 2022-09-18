@@ -191,8 +191,10 @@
 {"key":"iqiyi","name":"T4-爱奇艺","type":4,"api":"http://home.jundie.top:666/psp/iqiyi.php?key=signAYT","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"youku2","name":"T4-优酷","type":4,"api":"http://home.jundie.top:666/psp/youku.php?key= signAYT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/jar/sn5gxhq9.jar;md5;c29c1ee624fc82de3432cc78825209b4"},
 		
-	
-	
+{"key":"网易CC","name":"网易CC" ,"type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/ -/raw/main/json/%E7%BD%91%E6%98%93CC.json"},
+		{"key":"csp_xpath_酷狗MV","name":"酷狗MV"," type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/ raw/main/json/%E9%85%B7%E7%8B%97MV.json"},
+		{"key":"csp_xpath_kuqimv","name":"酷奇MV","type":3," api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E9%85%B7%E5 %A5%87MV.json"},{"key":"ASMR","name":"👄ASMR19","type":1,"api":"http://www.asmr19.in/api. php/provide/vod/","searchable":0,"quickSearch":0}	
+	{"key":"csp_XYQHiker_视频", "name":"氢视频","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E6%B0 %A2%E8%A7%86%E9%A2%91.json"},
 	
 		//{"key": "csp_Tkys","name": "天空影视（SP）","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
 		{
@@ -474,7 +476,7 @@
 		{"key":"csp_xml_ck","name":"CK资源","type":0,"api":"https://ckzy.me/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["伦理片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","记录片","犯罪片","奇幻片","电视剧","国产剧","欧美剧","日韩剧","港台剧"]},
 		{"key":"云播看看","name":"云播看看","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/q284855646/diy/-/raw/root/json/%E4%BA%91%E6%92%AD%E7%9C%8B%E7%9C%8B.json"},
 		{"key":"csp_app_爱酷影视","name": "爱酷影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
-
+{"key": "csp_XBiubiu_TVB云播","name":"TVB云播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"分机":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/tvb%E4%BA%91%E6%92%AD.json"},
 		
 		{"key":"csp_biubiu_旧梦影视","name":"旧梦影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/旧梦影视.json"},
 {"key":"csp_xp_vip1280","name":"VIP电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/vip1280.json"},
