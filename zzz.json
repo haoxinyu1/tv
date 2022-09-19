@@ -278,7 +278,7 @@
 {"key":"csp_XYQBiu_凌云韩国","name":"凌云韩国(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%87%8C%E4%BA%91%E9%9F%A9%E5%9B%BD.json"},
 {"key":"csp_XYQBiu_万能影院","name": "万能影院(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://神器每日推送.tk/XYQxb/万能影院.json"},
 {"key":"csp_XYQBiu_大米星球","name":"大米星球(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://神器每日推送.tk/XYQxb/大米星球.json"},
-
+{"key":"csp_XYQHiker_泰剧","name":"泰    剧(XYQ)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaohewanwan/TVBox-1/raw/branch/main/MaooXB/%E6%B3%B0%E5%89%A7.json","jar":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0918.jar"},  
 	{
 			"key": "csp_xpath_kuqimv",
 			"name": "经典 MV",
