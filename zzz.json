@@ -725,7 +725,177 @@
 {"key":"dr_兔小贝","name":"兔小贝(道长)","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
 { "key": "dr_看视界","name": "看视界(道长)","type": 1,"api": "https://drpy.justmiss.repl.co/vod?rule=看视界","searchable": 2,"quickSearch": 0, "filterable": 0},
 
-
+{
+    "key":"dr_555影视",
+    "name":"555影视(道长)",
+    “类型”：1，
+    "api":"http://cms.nokia.press/vod?rule=555影视",
+    “可搜索”：1，
+    “快速搜索”：1，
+    “可过滤”：0
+},
+{
+    "key":"dr_cookemv",
+    "name":"cokemv(道长)",
+    “类型”：1，
+    "api":"http://cms.nokia.press/vod?rule=cokemv",
+    “可搜索”：1，
+    “快速搜索”：1，
+    “可过滤”：0
+},
+{
+    "key":"dr_LIBVIO",
+    "name":"LIBVIO(道长)",
+    “类型”：1，
+    "api":"http://cms.nokia.press/vod?rule=LIBVIO",
+    “可搜索”：1，
+    “快速搜索”：1，
+    “可过滤”：0
+},
+{
+    "key":"dr_vip影院",
+    "name":"vip影院(道长)",
+    “类型”：1，
+    "api":"http://cms.nokia.press/vod?rule=vip影院",
+    “可搜索”：1，
+    “快速搜索”：1，
+    “可过滤”：0
+},
+{
+    "key":"dr_万能影视",
+    "name":"万能影视(道长)",
+    “类型”：1，
+    "api":"http://cms.nokia.press/vod?rule=万能影视",
+    “可搜索”：1，
+    “快速搜索”：1，
+    “可过滤”：0
+},
+{
+    "key":"dr_养端",
+    "名称":"养端(道长)",
+    “类型”：1，
+    "api":"http://cms.nokia.press/vod?rule=养端",
+    “可搜索”：0，
+    “快速搜索”：0，
+    “可过滤”：0
+},
+{
+    "key":"dr_剧白白",
+    "name":"剧白白(道长)",
+    “类型”：1，
+    "api":"http://cms.nokia.press/vod?rule=剧白白",
+    “可搜索”：1，
+    “快速搜索”：1，
+    “可过滤”：0
+},
+{
+    "key":"dr_喵喵",
+    "name":"喵喵(道长)",
+    “类型”：1，
+    "api":"http://cms.nokia.press/vod?rule=喵喵",
+    “可搜索”：1，
+    “快速搜索”：1，
+    “可过滤”：0
+},
+{
+    "key":"dr_在线之家",
+    "name":"在线之家(道长)",
+    “类型”：1，
+    "api":"http://cms.nokia.press/vod?rule=在线之家",
+    “可搜索”：1，
+    “快速搜索”：1，
+    “可过滤”：0
+},
+{
+    "key":"dr_夜空",
+    "name":"夜空(道长)",
+    “类型”：1，
+    "api":"http://cms.nokia.press/vod?rule=夜空",
+    “可搜索”：1，
+    “快速搜索”：1，
+    “可过滤”：0
+},
+{
+    "key":"dr_干饭影视",
+    "name":"干饭影视(道长)",
+    “类型”：1，
+    "api":"http://cms.nokia.press/vod?rule=干饭影视",
+    “可搜索”：0，
+    “快速搜索”：0，
+    “可过滤”：0
+},
+{
+    "key":"dr_影视工厂",
+    "name":"影视工厂(道长)",
+    “类型”：1，
+    "api":"http://cms.nokia.press/vod?rule=影视工厂",
+    “可搜索”：1，
+    “快速搜索”：1，
+    “可过滤”：0
+},
+{
+    "key":"dr_玩偶姐姐",
+    "name":"玩偶姐姐(道长)",
+    “类型”：1，
+    "api":"http://cms.nokia.press/vod?rule=玩偶姐姐",
+    “可搜索”：0，
+    “快速搜索”：0，
+    “可过滤”：0
+},
+{
+    "key":"dr_瓜皮TV",
+    "name":"瓜皮TV(道长)",
+    “类型”：1，
+    "api":"http://cms.nokia.press/vod?rule=瓜皮电视",
+    “可搜索”：1，
+    “快速搜索”：1，
+    “可过滤”：0
+},
+{
+    "key":"dr_看视界",
+    "name":"看视界(道长)",
+    “类型”：1，
+    "api":"http://cms.nokia.press/vod?rule=看视界",
+    “可搜索”：1，
+    “快速搜索”：1，
+    “可过滤”：0
+},
+{
+    "key":"dr_莫扎兔",
+    "name":"莫扎兔(道长)",
+    “类型”：1，
+    "api":"http://cms.nokia.press/vod?rule=莫扎兔",
+    “可搜索”：1，
+    “快速搜索”：1，
+    “可过滤”：0
+},
+{
+    "key":"dr_薄膜影院",
+    “名称”：“电影院（道长）”，
+    “类型”：1，
+    "api":"http://vod?rule.cm=电影院.nokia/",
+    “可搜索”：1，
+    “快速搜索”：1，
+    “可过滤”：0
+},
+{
+    "key":"dr_蓝莓影视",
+    "name":"蓝莓影视(道长)",
+    “类型”：1，
+    "api":"http://cms.nokia.press/vod?rule=蓝莓影视",
+    “可搜索”：1，
+    “快速搜索”：1，
+    “可过滤”：0
+},
+{
+    “key”：“dr_鸭奈飞”，
+    "name":"鸭奈飞(道长)",
+    “类型”：1，
+    "api":"http://cms.nokia.press/vod?rule=鸭奈飞",
+    “可搜索”：1，
+    “快速搜索”：1，
+    “可过滤”：0
+}
 			
 			
 			{
