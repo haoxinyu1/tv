@@ -95,7 +95,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext":"https://gitcode.net/zzzlllmmm1/zyx/-/raw/master/alitoken.json"
+			"ext":"https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json"
 		},		
 		{"key":"t4public",
 "name":"T4公共",
@@ -122,8 +122,8 @@
 			"filterable": 1
 		},
  //{"key" : "csp_AppTT","name" : "图     图（SP）","type" : 3,"api" : "csp_AppTT","searchable" : 1,"quickSearch" : 1,"filterable" : 1 ,"jar": "https://pan.szfx.top/down.php/3cb691124b8eb36f20ec7a42bf6af292.jar"},
- // {"key":"csp_AppTT","name":"图图影视（SP）","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"csp_AppTT","name":"图图影视（SP）","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/m0_73480297/box/-/raw/master/jar/%E5%9B%BE%E5%9B%BE.jar"},
+  {"key":"csp_AppTT","name":"图图影视（SP）","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_AppTT","name":"图图影视（SP）","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/m0_73480297/box/-/raw/master/jar/图图.jar"},
 
 
 
@@ -137,7 +137,7 @@
 
  // {"key":"csp_xpath_007","name":"零   零  七（SP）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/007.json"},
  
-  {"key":"csp_xpath_007","name":"玲玲影视（SP）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/gginn/ganggang/-/raw/master/007.json"},
+  {"key":"csp_xpath_007","name":"玲玲影视（SP）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/zzzlllmmm1/Q/raw/branch/master/XB/007.json"},
 
 		{"key":"csp_剧荒","name":"剧        荒（SP）","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 	//{"key":"csp_xpath_jbb","name":"剧白影视（SP）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/jubaibai.json","jar":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/jar/LZ0627.jar;md5;a69fd95c257c3a6982d2797fa505ffb6"},
@@ -1041,15 +1041,15 @@
             "ext":"https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/xBPQ/wannengys.json"
         },
 
-{"key": "csp_xBPQ_段友影院","name": "段友影院|xBPQ|","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"show-desc&&</p>\",   \"分类\":\"连续剧$2#动漫$3#B站$31#电影$1#综艺$3\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"类型\":\"clan://TVBox/筛选/段友影院筛选.json\",\"播放数组\":\"class=\\\"module-play-list-content&&</div>\",\"分类url\":\"https://shangjihuoke.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}","jar": "https://gitcode.net/m0_73480297/box/-/raw/master/jar/gg0925+%E6%96%B0XB.jar"}, 
+{"key": "csp_xBPQ_段友影院","name": "段友影院|xBPQ|","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"show-desc&&</p>\",   \"分类\":\"连续剧$2#动漫$3#B站$31#电影$1#综艺$3\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"类型\":\"clan://TVBox/筛选/段友影院筛选.json\",\"播放数组\":\"class=\\\"module-play-list-content&&</div>\",\"分类url\":\"https://shangjihuoke.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}","jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/xBPQ.jar"}, 
 {"key": "csp_xBPQ_耐看","name": "耐看点播|xBPQ|","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "{\"免嗅\":\"1\",
 \"播放标题\":\"span>&&<\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"module-info-introduction-content&&</div>\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",
 \"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\"分类url\":\"https://www.nkdyw.com/show/{cateId}--------{catePg}---.html\"}","jar":"https://gitcode.net/m0_73480297/box/-/raw/master/jar/gg0925+%E6%96%B0XB.jar"},
 {"key": "csp_xBPQ_鸭奈飞", "name": "鸭奈飞|xBPQ|", "type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",
-\"线路标题\": \"<span>&&</span>\",\"类型\":\"clan://TVBox/筛选/鸭奈飞筛选.json\",\"播放数组\":\"class=\\\"module-play-list-content&&</div>\",\"分类url\":\"https://yanetflix.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}","jar":"https://gitcode.net/m0_73480297/box/-/raw/master/jar/gg0925+%E6%96%B0XB.jar"}, 
+\"线路标题\": \"<span>&&</span>\",\"类型\":\"clan://TVBox/筛选/鸭奈飞筛选.json\",\"播放数组\":\"class=\\\"module-play-list-content&&</div>\",\"分类url\":\"https://yanetflix.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}","jar":"https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/xBPQ.jar"}, 
 
     
- {"key": "csp_xBPQ_磁搜","name": "磁搜影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://cokemv.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}","jar":"https://gitcode.net/m0_73480297/box/-/raw/master/jar/xBPQ.jar"},
+ {"key": "csp_xBPQ_磁搜","name": "磁搜影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://cokemv.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}","jar":"https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/xBPQ.jar"},
 
 {"key": "csp_xBPQ_奇粹视频",
 "name": "奇粹视频(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
@@ -1069,7 +1069,9 @@
 
 \"年份\":\"2000-2022\",
 \"筛选\":\"1\"
-}"
+}",
+
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/xBPQ.jar"
 },  
 
 {
@@ -1090,7 +1092,9 @@
 \"分类url\":\"https://www.niumatv.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html\",
 \"年份\":\"2000-2022\",
 \"筛选\":\"1\"
-}"},
+}",
+
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/xBPQ.jar"},
     
 {
       "key": "csp_xBPQ_98影院",
@@ -1122,10 +1126,10 @@
 
              \"分类url\":\"https://www.pbpb.tv/class/{cateId}--------{catePg}---.html\"}",
 
-"jar": "https://gitcode.net/m0_73480297/box/-/raw/master/jar/xBPQ.jar"},
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/xBPQ.jar"},
 
 {"key": "csp_xBPQ_看戏影视","name": "xBPQ | 看戏影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"{\"免嗅\":\"0\",
-\"副标题\":\"class=\\\"pic-text text-center\\\">&&</span>\",\"导演\": \"导演：&&</p\",\"主演\": \"主演：&&</p\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",\"分类\":\"电视剧$2#电影$1#动漫$4#综艺$3\",\"分类url\":\"https://www.kanxi123.net/tags/{cateId}--------{catePg}---.html\",\"年份\":\"2000-2022\",\"筛选\":\"0\"}","jar":"https://gitcode.net/m0_73480297/box/-/raw/master/jar/xBPQ.jar"},    
+\"副标题\":\"class=\\\"pic-text text-center\\\">&&</span>\",\"导演\": \"导演：&&</p\",\"主演\": \"主演：&&</p\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",\"分类\":\"电视剧$2#电影$1#动漫$4#综艺$3\",\"分类url\":\"https://www.kanxi123.net/tags/{cateId}--------{catePg}---.html\",\"年份\":\"2000-2022\",\"筛选\":\"0\"}","jar":"https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/xBPQ.jar"},    
 
 
 
@@ -1739,7 +1743,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcode.net/zzzlllmmm1/zyx/-/raw/master/alitoken.json"
+			"ext": "https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json"
 		}, 
 		 {
 			"key": "AliPS",
@@ -1749,10 +1753,10 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcode.net/zzzlllmmm1/zyx/-/raw/master/alitoken.json"
+			"ext": "https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json"
 		},
-		{"key":"csp_Alips","name":"喵搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitcode.net/zzzlllmmm1/zyx/-/raw/master/alitoken.json"},
-		//{"key":"Upyunso","name":"UP云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/zzzlllmmm1/zyx/-/raw/master/token.txt"},
+		{"key":"csp_Alips","name":"喵搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json"},
+		//{"key":"Upyunso","name":"UP云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json"},
 	{
 			"key": "Upyunso",
 			"name": "Up云搜(仅搜索)",
@@ -1761,7 +1765,7 @@
 			"filterable": 1,
 			"quickSearch": 1,
 			"searchable": 1,
-			"ext": "https://gitcode.net/zzzlllmmm1/zyx/-/raw/master/alitoken.json","jar":"https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/LZ0923.jar;md5;4b6c6cbf730b9d29ab0e5647f49c456f"
+			"ext": "https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json","jar":"https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/LZ0923.jar;md5;4b6c6cbf730b9d29ab0e5647f49c456f"
 		},
 		
 		{
@@ -1772,7 +1776,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcode.net/zzzlllmmm1/zyx/-/raw/master/alitoken.json"
+			"ext": "https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json"
 		}, 
 {
       "key": "csp_xpath_cls",
@@ -1794,7 +1798,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://gitcode.net/zzzlllmmm1/zyx/-/raw/master/alitoken.json"
+			"ext": "https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json"
 		}
 	],
 	"parses": [
