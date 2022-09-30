@@ -103,7 +103,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":0},
-  {"key":"t4_搜片","name":"搜片(T4)","type":4,"api":"https://t4.secan.icu/vod?sites= all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
+  //{"key":"t4_搜片","name":"搜片(T4)","type":4,"api":"https://t4.secan.icu/vod?sites= all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_bendi","name":"本地文件（视频）","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":0,"filterable":1,"type_flag":1},
 //{"key":"csp_bendi","name":"本地文件(仅播视频)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1,"jar":"https://神器每日推送.tk/jar;md5;5c69d5c0f11765373f35d2078e892d0c"},
 //  {"key": "T4","name": "T4 爬虫","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3781469b13074e4cac1e0e7113e4fa20","searchable": 1,"quickSearch": 1,"filterable": 0},
@@ -1286,7 +1286,17 @@
 	
 {"key": "csp_XYQBiu_聚合短视频","name":"聚合短视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://神器每日推送.tk/XYQxb/聚合短视频.js"},
 //{"key":"csp_XYQBiu_凌云影视","name": "凌云影视(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://神器每日推送.tk/XYQxb/凌云影视.json"},
-{"key":"csp_XYQBiu_凌云韩国","name":"凌云韩国(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%87%8C%E4%BA%91%E9%9F%A9%E5%9B%BD.json"},
+{
+"key": "csp_XYQBiu_凌云视频韩国",
+    "name": "凌云韩国(XYQ)",
+    "type": 3,
+    "api": "csp_XYQBiu",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://agit.ai/895322156/Q/raw/branch/master/XYQ/LYYSHG.json"
+},
+
 {"key":"csp_XYQBiu_万能影院","name": "万能影院(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://神器每日推送.tk/XYQxb/万能影院.json"},
 {"key":"csp_XYQBiu_大米星球","name":"大米星球(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://神器每日推送.tk/XYQxb/大米星球.json"},
 
@@ -1322,7 +1332,7 @@
 		}, 
 {"key":"csp_xbb_老电影","name":"老   电   影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/老电影.json"},
 		{"key":"csp_app_1080KK","name":"1080  KK","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://123.250idc.com/mogai_api.php/v1.vod"},
-	{"key":"mtv_pc_焦炭影视","name":"焦炭影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/m0_73480297/box/-/raw/master/jar/%E5%96%B5%E5%BD%B11.jar?inline=false;md5;B10D1D0527E69BCDC323A4C0BF9E5D65"},
+	{"key":"mtv_pc_焦炭影视","name":"焦炭影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 		{
 			"key": "csp_biubiu_蓝莓影视",
 			"name": "蓝莓影视",
@@ -1554,7 +1564,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/libvp.json"
+            "ext":"https://agit.ai/zzzlllmmm1/b/raw/branch/master/nb/6_libvp.json"
         },
         {
             "key":"csp_xpath_zxzj",
@@ -1564,7 +1574,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/zxzjp.json"
+            "ext":"https://agit.ai/zzzlllmmm1/b/raw/branch/master/nb/6_zxzj.json"
         },
         {
             "key":"csp_xpath_lezhutv",
@@ -1574,7 +1584,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/lztv.json"
+            "ext":"https://agit.ai/zzzlllmmm1/b/raw/branch/master/nb/6_lztv.json"
         },
         {
             "key":"csp_xpath_cokemv",
@@ -1584,7 +1594,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/cokep.json"
+            "ext":"https://agit.ai/zzzlllmmm1/b/raw/branch/master/nb/6_cokep.json"
         },
 		
 		{"key":"csp_xp_789kp","name":"789看片(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/789kp.json"},
@@ -1683,7 +1693,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E7%BE%8E%E9%A3%9F.json"
+      "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/美食.json"
     },
 	{"key": "体育","name": "🅱️体育合集（B站）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1 ,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/体育.json"},
 {"key": "球类","name": "🅱️球类合集（B站）","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable" : 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/球类.json"},
