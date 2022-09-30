@@ -136,11 +136,6 @@
 
 {"key":"csp_Jianying","name":"简影影视（SP）","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjo1MzE4LCJDcmVhdGVkQXQiOiIyMDIyLTAzLTE4VDE5OjI0OjM2LjkzOCswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDktMDVUMTA6NTY6MjguMDAzKzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiMzExMTI0ODcwMEBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJiOGIwNmU2ZS1jZjkwLTQ1NDItYmVjMS05NDk4OGVhMDE4NGIiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0wOS0wNVQxMDo1NjoyOC4wMDIrMDg6MDAiLCJyZWdfa2V5IjoiOTg4MTUxMzUiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjYzMDI2NTAyLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.m92i6og64WbwmCHYnI9CWL--Y1NwdMhvH4-Kn6FmPk8","jar":"http://刚刚.live/jar2/0920.jar"},
 
-
-
-
-
- // {"key":"csp_xpath_007","name":"零   零  七（SP）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/007.json"},
  
   {"key":"csp_xpath_007","name":"玲玲影视（SP）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/zzzlllmmm1/Q/raw/branch/master/XB/007.json"},
 
@@ -1374,7 +1369,10 @@
 		
 {"key":"csp_xbb_akmeiju","name":"爱看美剧","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/akmeiju.json"},
 
-	
+{"key":"小七影视","name":" 小七影视","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.xiaoqi0.cn/cuican_api.php/v1.vod"},
+
+
+{"key":"佳佳影视","name":"佳佳影视","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.jiajia.pub/api.php/v1.vod"},
 {"key":"4星资源1","name":"4星资源1","type":1,"api":"http://119.29.1.173/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"4星资源2","name":"4星资源2","type":1,"api":"http://tv2.hykjtv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
