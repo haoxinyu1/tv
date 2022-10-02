@@ -91,7 +91,8 @@
 			"quickSearch": 1,
 			"filterable": 1
 		}, 
-		 
+		 {"key":"csp_Cokem","name":"焦炭影视（SP）","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable ":1},
+{"key": "csp_XPMF_libvio" ,"name": "利奥影院（SP）","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1," filterable": 1,"ext": "https://gitee.com/zxyadc/tvbox/raw/develop/xp/利奥影视.json"},
 		{
 			"key": "Gitcafe",
 			"name": "️小 纸 条（云盘）",
