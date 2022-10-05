@@ -266,9 +266,9 @@
 
 
 		{"key":"KanSJ_spider","name":"看  视  界（SP）","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-//{"key":"csp_293","name":"293视频（SP）","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://gitcode.net/m0_73480297/box/-/raw/master/jar/SP293.jar"},
+{"key":"csp_293","name":"293视频（SP）","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/293.jar"},
 
-{"key":"csp_293","name":"293视频（SP）","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+//{"key":"csp_293","name":"293视频（SP）","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 	
 	{"key":"优众影视","name":"优众影视（SP）","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
 	
@@ -305,6 +305,27 @@
         {key:'b5892cf7-0b09-42b5-8ccd-73a877d80552',name:' 🌶 | 电影猫〔XP〕',type:3,api:'csp_XPathMacFilter',searchable:0,quickSearch:0,filterable:0,ext:'{"ua":"","homeUrl":"https://www.dym8.com","dcVipFlag":"true","pCfgJs":"https://www.dym8.com/static/js/playerconfig.js","pCfgJsR":"[\\\\W|\\\\S|.]*?MacPlayerConfig.player_list[\\\\W|\\\\S|.]*?=([\\\\W|\\\\S|.]*?),MacPlayerConfig.downer_list","dcShow2Vip":{},"dcPlayUrl":"true","cateNode":"//header//nav/ul/li/a[contains(@href, \'/vod/type\')]","cateName":"/text()","cateId":"/@href","cateIdR":"/vod/type/(\\\\S+).html","cateManual":{"电影":"1","连续剧":"2","综艺":"3","动漫":"4"},"homeVodNode":"//li[contains(@class, \'item\')]/div[contains(@class, \'item-con\')]","homeVodName":"/a[1]/@title","homeVodId":"/a[1]/@href","homeVodIdR":"/vod/detail(\\\\S+).html","homeVodImg":"/a[1]/img/@data-original","homeVodImgR":"\\\\S+(http\\\\S+)","homeVodMark":"/span/em/text()","cateUrl":"https://www.dym8.com/vod/type/{cateId}-{catePg}.html","cateVodNode":"//li[contains(@class, \'item\')]/div[contains(@class, \'item-con\')]","cateVodName":"/a[1]/@title","cateVodId":"/a[1]/@href","cateVodIdR":"/vod/detail(\\\\S+).html","cateVodImg":"/a[1]/img/@data-original","cateVodImgR":"\\\\S+(http\\\\S+)","cateVodMark":"/span/em/text()","dtUrl":"https://www.dym8.com/vod/detail/{vid}.html","dtNode":"//div[contains(@class,\'main-content\')]","dtName":"//h1[contains(@class,\'article-subject-m\')]/a/text()","dtNameR":"","dtImg":"//div[@class=\'thumb-wrap\']/img/@src","dtImgR":"\\\\S+(http\\\\S+)","dtCate":"//p[@class=\'tags\']/span/a/text()","dtCateR":"","dtYear":"//p[@class=\'year\']/span/a/text()","dtYearR":"","dtArea":"//p[@class=\'country\']/span/a/text()","dtAreaR":"","dtMark":"","dtMarkR":"","dtActor":"//p[@class=\'performer\']/span/a/text()","dtActorR":"","dtDirector":"//p[@class=\'director\']/span/a/text()","dtDirectorR":"","dtDesc":"//div[@class=\'summary-con\']/p/text()","dtDescR":"","dtFromNode":"//div[contains(@class,\'resource-box-nav\')]/ul/li/a","dtFromName":"/text()","dtFromNameR":"","dtUrlNode":"//ul[contains(@class,\'episodes-list\')]","dtUrlSubNode":"//li/a","dtUrlId":"/@href","dtUrlIdR":"/vod/play(\\\\S+).html","dtUrlName":"/text()","dtUrlNameR":"","playUrl":"https://www.dym8.com/vod/play/{playUrl}.html","playUa":"","searchUrl":"https://www.dym8.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10","scVodNode":"json:list","scVodName":"name","scVodId":"id","scVodIdR":"","scVodImg":"pic","scVodMark":""}'},
 
 {
+  "key": "csp_xb_shdy",
+  "name": "💠骚火电影(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://shdy2.com/list/{cateId}-{catePg}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+ },
+ {
+  "key": "csp_xb_ybkk",
+  "name": "💠云播看看(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://www.135kan.com/type/{cateId}-{catePg}/","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+ },
+
+{
   "key": "csp_xb_heihei",
   "name": "💠嘿嘿视频(R)",
   "type": 3,
@@ -312,7 +333,8 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "http://heiheiys.com/vodshow/{cateId}--------{catePg}---.html" },
+  "ext": "http://heiheiys.com/vodshow/{cateId}--------{catePg}---.html",
+"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar" },
 {
   "key": "csp_xb_yueq",
   "name": "💠云雀(R)",
@@ -321,7 +343,8 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://v.yunque.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
+  "ext": "https://v.yunque.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"},
 {
   "key": "csp_xb_liao",
   "name": "💠利奥影视(R)",
@@ -330,7 +353,8 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.libvio.me/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"},
+  "ext": "https://www.libvio.me/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"},
 {
   "key": "csp_xb_heitao",
   "name": "💠核桃影视(R)",
@@ -339,7 +363,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "http://kkkk.plus/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"},
+  "ext": "http://kkkk.plus/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"},
 
 {
 "key":"csp_xb_98ys",
@@ -803,7 +827,8 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://fositv.com/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html"},
+  "ext": "https://fositv.com/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
+"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"},
 
 {
   "key": "csp_xb_23ys",
@@ -813,7 +838,8 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-"ext":"https://www.23wm.net/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"},
+"ext":"https://www.23wm.net/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"},
 {
   "key": "csp_xb_kyk",
   "name": "💠看一看(R)",
@@ -822,7 +848,8 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "http://www.kyikan.cc/vodtypehtml/{cateId}/index-{catePg}.html"},
+  "ext": "http://www.kyikan.cc/vodtypehtml/{cateId}/index-{catePg}.html",
+"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"},
 
      {
   "key": "csp_xb_543ys",
@@ -1242,7 +1269,11 @@
 
 {"key": "csp_xBPQ_看戏影视","name": "xBPQ | 看戏影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"{\"免嗅\":\"0\",
 \"副标题\":\"class=\\\"pic-text text-center\\\">&&</span>\",\"导演\": \"导演：&&</p\",\"主演\": \"主演：&&</p\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",\"分类\":\"电视剧$2#电影$1#动漫$4#综艺$3\",\"分类url\":\"https://www.kanxi123.net/tags/{cateId}--------{catePg}---.html\",\"年份\":\"2000-2022\",\"筛选\":\"0\"}","jar":"https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/xBPQ.jar"},    
+{"key":"heihei","name":"xBPQ | 嘿嘿影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/heiheiPQ.json",
 
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/xBPQ.jar"
+},   
 
 
 {"key": "csp_xf_heihei","name": "️XYQH | 嘿嘿影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xiaohewanwan/TVBox-1/raw/branch/main/XYQ/heihei.json","jar":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"},
