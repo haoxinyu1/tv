@@ -1,6 +1,8 @@
 {
 	// "spider": "https://share.nite07.com/api/v3/file/source/23634/0928.jar?sign=U0rovqg_GxGZv2wrDojrx92r_oJWvpAta_tXudvPl6w%3D%3A0",
-	 "spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;7151E9617FA11E13823A8DCA88EEF2F0",
+//	 "spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;7151E9617FA11E13823A8DCA88EEF2F0",
+  "spider":"https://agit.ai/zbweb/TVBOX/src/branch/master/jar/1008.jar;md5;FE13757D0192343BF008736A5E6DFBD2",
+  //  "spider":"https://agit.ai/suanjin/tv/raw/branch/master/TVJAR/Your.jar;md5;710d9aa3aee4f6abc0bdea1a630a4a9b", 
 //	"spider":"http://神器每日推送.tk/vod;md5;f4ba0b967a9fad08afa06d198e3b796d",
 //	"spider": "http://刚刚.live/jar2/gg0925.jar", 	
     
@@ -984,7 +986,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/xBPQ/555%e7%94%b5%e5%bd%b1%20xBPQ.json"
+            "ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/xBPQ/555%e5%bd%b1%e8%a7%86.json"
         },
 
       
@@ -2376,9 +2378,7 @@
    "quickSearch": 0,
    "filterable": 0
   },
-
-
-//影魔大佬的js接口，需要TVBox支持js
+  //js J版
 {
       "key": "drpy_js_360影视",
       "name": "360影视[DRPY]",
@@ -2686,7 +2686,11 @@
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/追剧喵.js"
-    },
+    }, 
+    {"key":"csp_Alist2","name":"🅿️Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/Bili/Alist.json"},
+    {"key":"csp_QXBiubiu_555电影","name":" 🌻555电影(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/QXBiu/555电影.json"},
+
+
 
 			{
 			"key": "Yiso",
@@ -2757,7 +2761,7 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-{"name":"江湖解析","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="},
+
 {"name": "酷云","type": 1,"url": "http://43.139.29.179:5705/parse/api/酷云.js?url="},
 {"name": "搬运","type": 1,"url": "http://api.8a5.cn/parse/de.php?m=banyung&url="},
 {"name":"恩哥", "type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":[ "qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
@@ -2765,7 +2769,8 @@
 {"name":"spchat","type":1,"url":"https://svip.spchat.top/api/?key=O9HGeIVUqU3REsnmQP&url="},
  {"name": "IZNY","type": 1,"url": "https://hc.izny.cn/json.php?url="}, 
 {"name": "10%","type": 1,"url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url="},
-
+{"name":"佳宸","type":0,"url":"http://1link.atwebpages.com/?url="},
+{"name":"江湖解析","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="},
 {"name": "荣兴","type":1,"url":"http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url=","ext": {"flag": ["rx", "ltnb", "renrenmi", "rongxing", "bilibili", "哔哩哔哩", "哔哩", "youku", "优酷", "qiyi", "爱奇艺", "奇艺", "qq", "腾讯", "mgtv", "芒果", "sohu", "搜狐", "letv", "乐视", "xigua", "CL4K", "西瓜"]}},
 {"name": "阿里","type": 0,"url": "https://api.8a5.cn/parse/de.php?m=fositv&key=Qiuyi&url=https://www.aliyundrive.com/s/guwasGcmRyj"},
 {"name": "视界",
