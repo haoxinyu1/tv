@@ -3,7 +3,7 @@
 
   "spider":"https://agit.ai/zbweb/TVBOX/src/branch/master/jar/1008.jar;md5;FE13757D0192343BF008736A5E6DFBD2",
   //  "spider":"https://agit.ai/suanjin/tv/raw/branch/master/TVJAR/Your.jar;md5;710d9aa3aee4f6abc0bdea1a630a4a9b", 
-//	"spider":"http://神器每日推送.tk/vod;md5;4557d6e0774da16484b31c2ad0a98c4b",
+	//"spider":"http://神器每日推送.tk/vod;md5;4557d6e0774da16484b31c2ad0a98c4b",
 //	"spider": "http://刚刚.live/jar2/gg0925.jar", 	
     
 	"wallpaper":"http://壁纸.神器每日推送.tk",
@@ -57,7 +57,7 @@
 //{"key":"csp_NianYing","name":"NianYing（SP）","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
 
 		{"key": "追剧喵","name": "追  剧  喵〔SP〕","type": 3,"api": "csp_ZJMiao","searchable": 1,"quickSearch": 1,"filterable": 1},
-		
+
 		{
 			"key": "Lezhu_spider",
 			"name": "乐猪影视（SP）",
@@ -116,7 +116,15 @@
 		{"key": "csp_DiDuan","name": "低端影视（SP）","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 0},
 	
    // {"key":"Smdyy","name":"神马影院（SP）","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1}, 
-
+		{
+            "key":"csp_JiuJiu",
+            "name":"久久影视〔SP〕",
+            "type":3,
+            "api":"csp_JiuJiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,"jar": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/99.jar"
+},
 	//	{"key":"北雁资源","name":"北燕资源（SP）", "type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","categories": ["电影", "国产剧", "港台剧", "日韩剧", "欧美剧", "综艺", "动漫"]},
 		{
 			"key": "csp_Bttoo",
@@ -282,7 +290,7 @@
 
 
 		{"key":"KanSJ_spider","name":"看  视  界（SP）","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-{"key":"csp_293","name":"293视频（SP）","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/Q.jar"},
+{"key":"csp_293","name":"293视频（SP）","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://agit.ai/leevi/apps/raw/branch/main/jar/1001.jar;md5;c474a7a9d106ef348f4ebdc7705c6d38"},
 
 //{"key":"csp_293","name":"293视频（SP）","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 	
