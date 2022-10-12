@@ -49,14 +49,7 @@
             "filterable": 1
         },
 
-			{"key": "Ikan",
-			"name": "爱看影视（SP）",
-			"type": 3,
-			"api": "csp_IKan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		}, 
+		//	{"key": "Ikan","name": "爱看影视（SP）","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 	//	{ "key": "NianYing","name": " NianYing(SP)","type": 3,"api": "csp_NianYing","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://神器每日推送.tk/jar;md5;b36bd696d9b4ec61e31e86d52c2f2a3a"},
  
 			
@@ -156,7 +149,7 @@
   {"key":"csp_xpath_007","name":"玲玲影视（SP）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/zzzlllmmm1/Q/raw/branch/master/XB/007.json"},
 
 		{"key":"csp_剧荒","name":"剧        荒（SP）","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
-	//{"key":"csp_xpath_jbb","name":"剧白影视（SP）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/jubaibai.json","jar":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/jar/LZ0627.jar;md5;a69fd95c257c3a6982d2797fa505ffb6"},
+{"key":"csp_xpath_jbb","name":"剧白影视（SP）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/json/jubaibai.json"},
 {"key": "csp_xBPQ_buka","name":"️不卡影院（SP）","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"http://神器每日推送.tk/xbpq/不卡.json"},
 {"key":"csp_xBPQ_极品","name":"极品影视（SP）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/xbpq/极品.json"},
 	{
@@ -219,7 +212,7 @@
 //	{"key":"csp_QQ","name":"腾        讯（官）","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://刚刚.live/jar2/gg0925.jar"},
 //{"key":"csp_MGTV","name":"芒        果（官）","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://刚刚.live/jar2/gg0925.jar"},
 //{"key":"csp_IQIYI","name":"爱  奇  艺（官）","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar": "hhttp://刚刚.live/jar2/gg0925.jar"},
-{"key":"csp_QQ","name":"腾        讯（官）","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://刚刚.live/jar2/gg0925.jar"},
+{"key":"csp_QQ","name":"腾        讯（官）","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/fenwe/TVBox/raw/branch/master/jar/0922.jar"},
 		{"key":"csp_MGTV","name":"芒        果（官）","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://刚刚.live/jar2/gg0925.jar"},
 		{"key":"csp_IQIYI","name":"爱  奇  艺（官）","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://刚刚.live/jar2/gg0925.jar"},
 
@@ -320,7 +313,7 @@
 		
 {"key":"csp_biubiu_骚火电影","name":"骚火电影〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/shdy.json"},
 
-
+{"key":"dr_TV云播","name":"TV云播〔dr〕","type":1,"api":"http://drpy.fuqizhishi.com/vod?rule=TV云播&ext=txt/js/tg/TV云播.js","searchable":2,"quickSearch":0,"filterable":0},
 
 
 
