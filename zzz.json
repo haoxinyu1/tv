@@ -1,6 +1,6 @@
 {
 	// "spider": "https://share.nite07.com/api/v3/file/source/23634/0928.jar?sign=U0rovqg_GxGZv2wrDojrx92r_oJWvpAta_tXudvPl6w%3D%3A0",
-
+ //"spider":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/1008-2.jar",
   "spider":"https://agit.ai/zbweb/TVBOX/src/branch/master/jar/1008.jar;md5;FE13757D0192343BF008736A5E6DFBD2",
   //  "spider":"https://agit.ai/suanjin/tv/raw/branch/master/TVJAR/Your.jar;md5;710d9aa3aee4f6abc0bdea1a630a4a9b", 
 	//"spider":"http://神器每日推送.tk/vod;md5;4557d6e0774da16484b31c2ad0a98c4b",
@@ -286,7 +286,7 @@
 		
 
 {"key": "优众影视","name": "优众影视（SP）","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://121.205.88.194:7878/xgapp.php/v2/"},	
-{"key":"csp_555","name":"555影视（SP）","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://神器每日推送.tk/vod;md5;4557d6e0774da16484b31c2ad0a98c4b"},
+{"key":"csp_555","name":"555影视（SP）","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://刚刚.live/jar2/gg0925.jar"},
 
 
 		{"key":"KanSJ_spider","name":"看  视  界（SP）","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
@@ -906,6 +906,17 @@
 {"key":"csp_XYQBiu_斗鱼","name":"斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk//XYQxb/斗鱼直播.json"},      
 
   
+
+  {
+        "key": "csp_xb_7xiady",
+        "name": "xBPQ | 秋霞影视",
+        "type": 3,
+        "api": "csp_xBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "分类url:https://www.7xiady.cc/show/{cateId}--------{catePg}---,免嗅:1"
+        },
   {
             "key":"csp_xBPQ_ 吼吼TV",
             "name":"xBPQ |  吼吼TV",
@@ -1340,6 +1351,64 @@
 
 "jar": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/xBPQ.jar"
 },
+
+{
+            "key":"csp_XYQBiu_23影视",
+            "name":"XYQ |23影视",
+            "type":3,
+            "api":"csp_XYQHiker",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/XYQ/23影视.json",
+            "jar":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/XYQPlugin_1010.jar"
+        },
+{
+            "key":"csp_XYQBiu_90影视网",
+            "name":"XYQ |90影视网",
+            "type":3,
+            "api":"csp_XYQHiker",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/XYQ/90影视网.json",
+            "jar":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/XYQPlugin_1010.jar"
+        },
+{
+            "key":"csp_XYQBiu_RP影视",
+            "name":"XYQ |RP影视",
+            "type":3,
+            "api":"csp_XYQHiker",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/XYQ/RP影视.json",
+            "jar":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/XYQPlugin_1010.jar"
+        },
+
+{
+            "key":"csp_XYQBiu_101电影",
+            "name":"XYQ |101电影",
+            "type":3,
+            "api":"csp_XYQHiker",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/XYQ/l0l影院.json",
+            "jar":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/XYQPlugin_1010.jar"
+        },
+
+{
+            "key":"csp_XYQBiu_秋霞电影",
+            "name":"XYQ |秋霞电影",
+            "type":3,
+            "api":"csp_XYQHiker",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/XYQ/秋霞电影.json",
+            "jar":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/XYQPlugin_1010.jar"
+        },
 
 
  {
