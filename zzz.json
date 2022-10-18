@@ -101,13 +101,10 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext":"https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json"
-		},		
-		{"key":"t4public",
-"name":"T4公共",
-"type":4,            "api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":0},
+		},	
+
+
+	//	{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
   //{"key":"t4_搜片","name":"搜片(T4)","type":4,"api":"https://t4.secan.icu/vod?sites= all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_bendi","name":"本地文件（视频）","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":0,"filterable":1,"type_flag":1},
 //{"key":"csp_bendi","name":"本地文件(仅播视频)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1,"jar":"https://神器每日推送.tk/jar;md5;5c69d5c0f11765373f35d2078e892d0c"},
@@ -2594,13 +2591,13 @@
             "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
             "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/麦豆com.js"
         },
-            {
-            "key" : "drpy_js_秋霞",
-            "name" : "秋霞[DRPY]-click",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/秋霞.js"
-        },
+           {
+      "key": "drpy_js_秋霞",
+      "name": "秋霞[DRPY]",
+      "type": 3,
+      "api": "https://agit.ai/171448637/17144/raw/branch/main/drpy.js",
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/秋霞.js"
+    },
             {
             "key" : "drpy_js_兔小贝",
             "name" : "兔小贝[DRPY]",
