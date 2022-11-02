@@ -1,30 +1,23 @@
-{ // "spider":"https://share.nite07.com/api/v3/file/source/27762/1028.jar?sign=K7Kd9pBTGxEOYWhnmbDLxU9Q1_N5ajn9JMY-q8_8UtY%3D%3A0",
+{  //"spider":"https://share.nite07.com/api/v3/file/source/27762/1028.jar?sign=K7Kd9pBTGxEOYWhnmbDLxU9Q1_N5ajn9JMY-q8_8UtY%3D%3A0",
    //  "spider":"https://share.nite07.com/api/v3/file/source/26148/1008-2.jar?sign=zYv3W0-m9Kiz7b8VlALCO7bAqs0EeU3x8MijqozUmA8%3D%3A0",
-//"spider":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/1008-2.jar",
-//	"spider": "http://刚刚.live/jar2/gg0925.jar", 	
- "spider":"https://cp1.awardspace.net/file-manager/downloadFile?filePath=%2F1028.jar&fileName=1028.jar&archiveType=",
+"spider":"https://cp1.awardspace.net/file-manager/downloadFile?filePath=%2F1028.jar&fileName=1028.jar&archiveType=",
+//	"spider": "http://刚刚.live/jar2/gg0925.jar", 
+//	"spider": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/1028.jar", 	
 
     
 	"wallpaper":"http://壁纸.神器每日推送.tk",
 	//"wallpaper": "http://刚刚.live/图",
-	//"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMjk5MDIvMEVSY3pJMGJfekIudHh0P3NpZ249RHMyWW43SjY4eUVpN2FaS0pKcHUtN01hck1xZUlCLXlKbEotZGRacDJBVSUzRCUzQTA="]}]}],
-	//"lives": [{"group": "redirect","channels": [{"name": "live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcGxheWdheW1lL2JveFJlcG9zaXRvcnkvcmF3L2JyYW5jaC9tYWluL1RWQm94L3p5L3R2L3piLnR4dA=="]}]}],（备份直播源）
-	//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
-	//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vTWlrZTkwNi96eWsvcmF3L2JyYW5jaC9tYWluL2xpdmVzL3oxLnR4dA=="]}]}],
 	
 	//"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9xMjg0ODU1NjQ2L3l5ZHN5cy8tL3Jhdy9tYXN0ZXIvbGl2ZS50eHQ="]}] }],(ziyong直播）
 
 	//	"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC96enpsbGxtbW0xL3p5eC8tL3Jhdy9tYXN0ZXIvbGl2ZXMvbGl2ZS50eHQ="]}] }],
 	//"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3p6emxsbG1tbTEvYi9yYXcvYnJhbmNoL21hc3Rlci9saXZlLnR4dA=="]}] }],
 	//"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS8yMzU0Mi9saXZlLnR4dD9zaWduPXZEUmpEc1NGM1RRUnkxdEg1dEx0V19GX1pPT05mWmVpdFNUTTdOZ1Vld2slM0QlM0Ew"]}] }],
-
     "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly96enpsbGxtbW0ubmVvY2l0aWVzLm9yZy9saXZlLnR4dA=="]}] }],
-
-    
     
     "sites": [	    
 	    {"key":"csp_SP360","name":"360影视〔官解〕","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-		{"key":"csp_BBB1","name":"哔哩套餐（B站）","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/哔哩.json"},
+		{"key":"csp_BBB1","name":"哔哩套餐（B站）","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/哔哩.json","jar": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/%e6%9c%80%e9%ab%981080%e5%93%94%e5%93%a9%e5%bf%b5%e5%bd%b1%e7%a5%9e%e9%a9%ac.jar"},
 		{"key":"T4_douban","name":"豆瓣推荐〔搜索〕","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},	
 		//{"key":"csp_Kunyu77","name":"酷云七七（SP）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
   {
@@ -40,7 +33,7 @@
 {"key":"csp_biubiu_完美看看影视","name":"完美看看〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/完美看看.json"},
 
 			{"key": "Ikan","name": "爱看影视（SP）","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1}, 
-	//	{ "key": "NianYing","name": " NianYing(SP)","type": 3,"api": "csp_NianYing","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://神器每日推送.tk/vod;md5;4557d6e0774da16484b31c2ad0a98c4b"},
+	//	{ "key": "NianYing","name": " NianYing(SP)","type": 3,"api": "csp_NianYing","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/%e6%9c%80%e9%ab%981080%e5%93%94%e5%93%a9%e5%bf%b5%e5%bd%b1%e7%a5%9e%e9%a9%ac.jar"},
  
 			
 //{"key":"csp_NianYing","name":"NianYing（SP）","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
@@ -100,7 +93,7 @@
 		
 		{"key": "csp_DiDuan","name": "低端影视（SP）","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 0},
 	
-    {"key":"Smdyy","name":"神马影院（SP）","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1 }, 
+    {"key":"Smdyy","name":"神马影院（SP）","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1 ,"jar": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/%e6%9c%80%e9%ab%981080%e5%93%94%e5%93%a9%e5%bf%b5%e5%bd%b1%e7%a5%9e%e9%a9%ac.jar"}, 
 		
 		{
 			"key": "csp_Bttoo",
