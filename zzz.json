@@ -47,24 +47,19 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1},
- {
-    "key": "Tian",
-    "name": "天天影视（SP）",
-    "type": "3",
-    "api": "csp_Dora",
-    "searchable": "1",
-    "quickSearch": "1",
-    "filterable": "1",
-    "ext": "bdc1c75081e5e477189a463baa47e392","jar": "http://api.lengniuge.eu.org/cs.jar;md5;c5ae54af10b1426204a374b9b67546de"
-  
-  },
+            	{
+			"key": "Gitcafe",
+			"name": "️小 纸 条（云盘）",
+			"type": 3,
+			"api": "csp_Gitcafe",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext":"https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json"
+		},
+
 {"key":"csp_hbys",		"name":"简影影视（SP）",		"type":3,"api":"csp_JianYing","filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDEwMiwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xNlQyMTo0Nzo1Ni44NDUrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTE2VDIxOjQ3OjU2Ljg0NSswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjI0Mjk0OTc3NTZAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiZTI2MmY0NTEtZjE4Ni00OGQwLWE1MjctZjc5M2Q5MjUyYmYyIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjgzODk0MzcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.2BnwO03h_AL4CaEYWl5wtToaOo9cNFSlIeTr0zf4Dqs"},
-  {"key":"MiniYs_spider", "name":"迷你影视（SP）", "type":3,"api":"csp_MiniYs","filterable":1,"quickSearch":1,"searchable":1, "jar":"http://catvod.fun:8001/tv/qj.jar;md5;f6e93e53b2384e118aa1afb6286970fe"},
-	{"key":"dm77_spider", "name":"齐齐动漫（SP）", "type":3,"api":"csp_DM77", "filterable":1,"quickSearch":1,"searchable": 1,"jar":"http://catvod.fun:8001/tv//qj.jar;md5;f6e93e53b2384e118aa1afb6286970fe"},
-	{"key":"棉花影视", "name":"棉花影视（SP）", "type":3,"api":"csp_MianHua","searchable":1,"quickSearch":1,"filterable": 0,"jar":"http://catvod.fun:8001/tv//qj.jar;md5;f6e93e53b2384e118aa1afb6286970fe"},
-	{"key":"sliu_spider", "name":"石榴电影（SP）", "type":3,"api":"csp_ShiLiuDY","filterable":1,"quickSearch":1,"playerType":2, "searchable":1,"jar":"http://catvod.fun:8001/tv//qj.jar;md5;f6e93e53b2384e118aa1afb6286970fe"},
-	{"key":"csp_Wmkk", "name":"完美看看（SP）", "type":3,"api":"csp_Wmkk", "filterable":1,"quickSearch":1,"searchable": 1,"jar":"http://catvod.fun:8001/tv//qj.jar;md5;f6e93e53b2384e118aa1afb6286970fe"},
-	{"key":"csp_Yanet", "name":"奈飞影视（SP）", "type":3,"api":"csp_Yanet", "searchable":1,"quickSearch":1,"filterable":1, "jar":"http://catvod.fun:8001/tv//ts.jar;md5;cf3d3695dd5014a2b7120e4a9ce03a1c"},
+ {"key":"csp_Wmkk", "name":"完美看看（SP）", "type":3,"api":"csp_Wmkk", "filterable":1,"quickSearch":1,"searchable": 1,"jar":"http://catvod.fun:8001/tv//qj.jar;md5;f6e93e53b2384e118aa1afb6286970fe"},
 {"key":"csp_biubiu_完美看看影视","name":"完美看看〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/完美看看.json"},
 
 			{"key": "Ikan","name": "爱看影视（SP）","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1}, 
@@ -93,24 +88,53 @@
 		}, 
 
 {"key": "csp_XPMF_libvio" ,"name": "利奥影院（SP）","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1," filterable": 1,"ext": "https://gitee.com/zxyadc/tvbox/raw/develop/xp/利奥影视.json"},
-		{
-			"key": "Gitcafe",
-			"name": "️小 纸 条（云盘）",
+		
+{"key":"csp_Tkys","name": "天空影视（SP）","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
+	{
+			"key": "csp_Bttoo",
+			"name": "两 个 BT（SP）",
 			"type": 3,
-			"api": "csp_Gitcafe",
+			"api": "csp_Bttoo",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
-			"ext":"https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json"
-		},	
+			"filterable": 1
+		},
+  {
+            "key": "哔滴影视",
+            "name": "哔滴影视（SP）",
+            "type": 3,
+            "api": "csp_Bdys01",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+    
+  {"key":"csp_AppTT","name":"图图影视（SP）","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://share.nite07.com/api/v3/file/source/29489/cc.jar?sign=Z0dFxoM0Fz6p3hO4HTjf48nkPW3nsgJBHqPxkaK3Nio%3D%3A0"},
+ 
+ {
+    "key": "Tian",
+    "name": "天天影视（SP）",
+    "type": "3",
+    "api": "csp_Dora",
+    "searchable": "1",
+    "quickSearch": "1",
+    "filterable": "1",
+    "ext": "bdc1c75081e5e477189a463baa47e392","jar": "http://api.lengniuge.eu.org/cs.jar;md5;c5ae54af10b1426204a374b9b67546de"
+  
+  },
+ {"key":"MiniYs_spider", "name":"迷你影视（SP）", "type":3,"api":"csp_MiniYs","filterable":1,"quickSearch":1,"searchable":1, "jar":"http://catvod.fun:8001/tv/qj.jar;md5;f6e93e53b2384e118aa1afb6286970fe"},
+	{"key":"dm77_spider", "name":"齐齐动漫（SP）", "type":3,"api":"csp_DM77", "filterable":1,"quickSearch":1,"searchable": 1,"jar":"http://catvod.fun:8001/tv//qj.jar;md5;f6e93e53b2384e118aa1afb6286970fe"},
+	{"key":"棉花影视", "name":"棉花影视（SP）", "type":3,"api":"csp_MianHua","searchable":1,"quickSearch":1,"filterable": 0,"jar":"http://catvod.fun:8001/tv//qj.jar;md5;f6e93e53b2384e118aa1afb6286970fe"},
+	{"key":"sliu_spider", "name":"石榴电影（SP）", "type":3,"api":"csp_ShiLiuDY","filterable":1,"quickSearch":1,"playerType":2, "searchable":1,"jar":"http://catvod.fun:8001/tv//qj.jar;md5;f6e93e53b2384e118aa1afb6286970fe"},
+		{"key":"csp_Yanet", "name":"奈飞影视（SP）", "type":3,"api":"csp_Yanet", "searchable":1,"quickSearch":1,"filterable":1, "jar":"http://catvod.fun:8001/tv//ts.jar;md5;cf3d3695dd5014a2b7120e4a9ce03a1c"},
+{"key":"csp_Mjxq","name":"美剧星球（SP）","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
             {"key":"csp_Lgyy","name":"蓝光影视（SP）","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_fant","name":"饭团影视（SP）","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://share.nite07.com/api/v3/file/source/29486/%E7%A5%9E%E5%99%A8.jar?sign=r21vxU6em1FrLozvyk1T0QQZO3ivyc3VuSKFBbk-aX8%3D%3A0"},
             {"key":"csp_Xxys","name":"小熊影视（SP）","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
             {"key":"csp_Dy1010","name":"双十电影（SP）","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://share.nite07.com/api/v3/file/source/29486/%E7%A5%9E%E5%99%A8.jar?sign=r21vxU6em1FrLozvyk1T0QQZO3ivyc3VuSKFBbk-aX8%3D%3A0"},
-{"key":"csp_Tkys","name": "天空影视（SP）","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"csp_Nkdy","name":"南柯影视（SP）","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://share.nite07.com/api/v3/file/source/29486/%E7%A5%9E%E5%99%A8.jar?sign=r21vxU6em1FrLozvyk1T0QQZO3ivyc3VuSKFBbk-aX8%3D%3A0"},
-{"key":"csp_Mjxq","name":"美剧星球（SP）","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key": "t4","name": "T4公共（搜索）","type": 4,"api": "http://155.94.146.213:8080/vod?sites=all&ali_token=f6fcd2d1c0e54601805413721d89e0ca&timeout=8","searchable": 1,"quickSearch": 1,"filterable": 0},
 	//	{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
   //{"key":"t4_搜片","name":"搜片(T4)","type":4,"api":"https://t4.secan.icu/vod?sites= all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -196,27 +220,7 @@
     "ext": "b88de1329655cca1beba45aa9776de70","jar": "https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0"
   
   },
-		{
-			"key": "csp_Bttoo",
-			"name": "两 个 BT（SP）",
-			"type": 3,
-			"api": "csp_Bttoo",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-  {
-            "key": "哔滴影视",
-            "name": "哔滴影视（SP）",
-            "type": 3,
-            "api": "csp_Bdys01",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-    
-  {"key":"csp_AppTT","name":"图图影视（SP）","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://share.nite07.com/api/v3/file/source/29489/cc.jar?sign=Z0dFxoM0Fz6p3hO4HTjf48nkPW3nsgJBHqPxkaK3Nio%3D%3A0"},
-  {
+	 {
             "key": "Anfuns",
             "name": "Anfuns（SP）",
             "type": 3,
