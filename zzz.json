@@ -32,9 +32,9 @@
         {"key":"csp_SP360","name":"360影视（官解）","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"csp_BBB1","name":"哔哩套餐（B站）","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/哔哩.json"},
 	
-        {"key":"T4_douban","name":"豆瓣推荐（搜索）","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},	
+{"key":"douban","name":"豆瓣推荐（搜索）","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
 
-  {
+ {
             "key": "csp_Kunyu77",
             "name": "酷云七七（SP）",
             "type": 3,
@@ -2621,9 +2621,16 @@
 
 
   //js J版
+
+  {
+"key": "drpy_js_豆瓣", "name": "🎐豆瓣首页[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/ master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"
+},
+
+
         {  "key":"csp_TVBOX","name":"TVBOX课堂[DRPY]","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/TVkt.js"
 },
+
         {
             "key" : "drpy_js_盛世电影网",
             "name" : "盛世电影网[DRPY]",
