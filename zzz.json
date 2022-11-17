@@ -136,6 +136,63 @@
       "categories": [ "动作片", "爱情片", "科幻片", "战争片", "剧情片", "恐怖片", "喜剧片", "大陆剧", "港澳剧", "台湾剧", "欧美剧", "动漫电影", "韩剧", "日剧", "泰剧"]
     },
 
+ {
+      "key": "快播",
+      "name": "快播影视（SP）",
+      "type": 1,
+      "api": "https://www.kuaibozy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "动漫",
+        "国产剧",
+        "日韩剧",
+        "港台剧",
+        "欧美剧",
+        "泰剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片",
+        "综艺"
+      ]
+    },
+    {
+      "key": "百度",
+      "name": "百度影视（SP）",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "大陆剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片"
+      ]
+    },
+    {
+      "key": "異界",
+      "name": "異界影视（SP）",
+      "type": 3,
+      "api": "csp_Ysj",
+      "searchable": 1,
+      "filterable": 1,"jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/fongmi.jar"
+    },
+
 	{"key":"csp_Nmys","name":"农民影视（SP）","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xn--m7r412advb92j21st65a.tk/json/nmys.json"},
         {"key":"csp_Zjdr","name":"追剧影视（SP）","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Bd","name":"bidi影视（SP）","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
@@ -337,8 +394,10 @@
 			"api": "csp_Lib",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,"jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/1114.jar"}, 
+			"filterable": 0,"jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/qj1115.jar"}, 
 	
+    {"key":"csp_Vofl","name":"Voflix（SP）","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/xo.jar"},
+
 		{
 			"key": "csp_Cokemv",
 			"name": "Cokemv（SP）",
@@ -2511,7 +2570,7 @@
 //{"key":"csp_Alistx","name":"🅿Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"4K影视$https://quanzi.laoxianghuijia.cn#小兵$https://6vv.app#DISK$http://124.222.140.243:8080#云播放$https://quanzi.laoxianghuijia.cn#星梦$https://pan.bashroot.top#A2$http://37.16.3.89#小江$https://dyj.me#触光$https://pan.ichuguang.com#好汉吧$https://8023.haohanba.cn#米奇$https://anime.mqmmw.ga#晴园$https://alist.52qy.repl.co#小光盘$https://alist.xiaoguanxiaocheng.life#一只鱼$https://alist.youte.ml#七米蓝$https://al.chirmyram.com#嗨翻$https://pan.hikerfans.com#非盘$http://www.feifwp.top#sangxuesheng$https://wangpan.sangxuesheng.com#Auney$http://121.227.25.116:8008","jar":"https://神器每日推送.tk/jar/alist.jar;md5;285d80f6e19e2613ea305083f84bd95a"},
 
  {
-      "key": "csp_Alist",
+      "key": "csp_Alist3",
       "name": "🅿Alist(SP)",
       "type": 3,
       "api": "csp_Alist",
@@ -2538,7 +2597,7 @@
         "💢repl": "https://ali.liucn.repl.co",
         "🌨秋雨分享": "https://share.laowang.me",
         "💦讯维云盘": "https://pan.xwbeta.com"
-      }
+      },"jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/fongmi.jar"
     },
     //{"key":"csp_Alist2","name":"🅿Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/Mike906/jar/raw/branch/main/Alist.json"},
 {"key":"csp_biubiu_tingshuxb","name":"🎧听  书  网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/听书网.json"},
@@ -3776,7 +3835,7 @@
 
 
 
-    {"key":"csp_Alist2","name":"🅿️Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/Bili/Alist.json"},
+    //{"key":"csp_Alist2","name":"🅿️Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/Bili/Alist.json","jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/fongmi.jar"},
     {"key":"csp_QXBiubiu_555电影","name":" 🌻555电影(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/QXBiu/555电影.json"},
 
 
@@ -3852,8 +3911,17 @@
  "ext":"https://agit.ai/qi169/My9394/raw/branch/master/json/%e7%a3%81%e5%8a%9b%e6%90%9c%e7%b4%a2.json"
  },
 
-	 {"key":"csp_Alist","name":"Alist(网盘)","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/alist.json"},
-		{
+	// {"key":"csp_Alist1","name":"Alist(网盘)","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/alist.json","jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/fongmi.jar"},
+	{
+      "key": "AList",
+      "name": "AList2(网盘)",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json","jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/fongmi.jar"
+    },
+    	{
 			"key": "push_agent",
 			"name": "🎯推送（爱优腾/阿里云盘/磁力链接）",
 			"type": 3,
