@@ -38,7 +38,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1},
-            	{"key": "Gitcafe1","name": "️小 纸 条1（云盘）","type": 3,
+        {"key":"Gitcafe","name":"小 纸 条1（云盘）","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"c3895f91c81741959c22feb5fe3a5def"},
+            	{"key": "Gitcafe1","name": "️小 纸 条2（云盘）","type": 3,
 			"api": "csp_Gitcafe",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -49,7 +50,7 @@
 
  {
 "key": "紙條",
-    "name": "小 纸 条2（云盘）",
+    "name": "小 纸 条3（云盘）",
     "type": 3,
     "api": "csp_Paper",
     "searchable": 1,
@@ -59,35 +60,13 @@
 }
 
 ,
-  {
- "key":"FindZY1",
- "name":"找资源(仅搜索)",
- "type":3,
- "api":"csp_Zhaozy",
- "searchable":1,
- "quickSearch":1,
- "filterable":1,"jar":""
- },
- {
- "key":"AliPS1",
- "name":"盘    搜(仅搜索)",
- "type":3,
- "api":"csp_AliPS",
- "searchable":1,
- "quickSearch":1,
- "filterable":1,"jar":""
- },
- {"key":"Upyunso1","name":"云    搜(仅搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0, "jar":""},
-{
-      "key": "yisou1",
-      "name": "易    搜(仅搜索)",
-      "type": 3,
-      "api": "csp_Yisou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 1,
-      "filterable": 0
-    },
+  
+{"key":"一搜","name":"易    搜(仅搜索)","type":3,"api":"csp_一搜","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok","jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/xo.jar"},
+{"key":"Zhaozy","name":"找资源(仅搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok","jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/xo.jar"},
+{"key":"Upyunso","name":"云     搜(仅搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok","jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/xo.jar"},
+{"key":"Alips","name":"盘搜索(仅搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok","jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/xo.jar"},
+
+ 
 {"key":"csp_hbys",		"name":"简影影视（SP）",		"type":3,"api":"csp_JianYing","filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDEwMiwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xNlQyMTo0Nzo1Ni44NDUrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTE2VDIxOjQ3OjU2Ljg0NSswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjI0Mjk0OTc3NTZAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiZTI2MmY0NTEtZjE4Ni00OGQwLWE1MjctZjc5M2Q5MjUyYmYyIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjkwNTA3NTEsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.u4u99j0k5dJE5Dad_8MO53jkta13Me4D16Qfv0lkeAc"},
 
  {"key":"csp_Wmkk", "name":"完美看看（SP）", "type":3,"api":"csp_Wmkk", "filterable":1,"quickSearch":1,"searchable": 1},
@@ -3803,65 +3782,6 @@
 
 
 
-			{
-			"key": "Yiso",
-			"name": "易  搜(仅搜索)",
-			"type": 3,
-			"api": "csp_Yiso",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json"
-		}, 
-	 {
-      "key": "AliPS",
-      "name": "盘搜(仅搜索)",
-      "type": 3,
-      "api": "csp_AliPS",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 1,"jar": "http://home.jundie.top:81/jar/top98.jar"
-    },
-    
-         
-         
-		{"key":"csp_Alips","name":"喵搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json"},
-		//{"key":"Upyunso","name":"UP云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json"},
-	
-        {
-      "key": "upyunsou",
-      "name": "Up云搜(仅搜索)",
-      "type": 3,
-      "api": "csp_Upyunso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 1,
-      "filterable": 0,
-      "ext": "token;asc","jar": "http://home.jundie.top:81/jar/top98.jar"}, 
-    
-   
-		{
-			"key": "zhaozy",
-			"name": "找资源(仅搜索)",
-			"type": 3,
-			"api": "csp_FindZY",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json"
-		}, 
-
-		
- {
- "key":"push_agent1",
- "name":"📨推送（爱优腾/阿里云盘/磁力链接）",
- "type":3,
- "api":"csp_PushAgent",
- "searchable":0,
- "quickSearch":0,
- "filterable":0, "jar":""
- },
 
  {
  "key":"csp_xpath_clss",
@@ -3884,16 +3804,9 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json","jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/fongmi.jar"
     },
-    	{
-			"key": "push_agent",
-			"name": "🎯推送（爱优腾/阿里云盘/磁力链接）",
-			"type": 3,
-			"api": "csp_PushAgent",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json"
-		}
+    	{"key":"push_agent","name":"🎯推送（爱优腾/阿里云盘/磁力链接）","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch": 0,"filterable":0,"ext":"http://ali.饭太硬.ml/tok","jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/xo.jar"}
+
+        
 	],
 	"parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
