@@ -1,6 +1,6 @@
 { // "spider":"https://gitee.com/zzzlllmmm1/a1/raw/master/%E4%B9%9D%E9%98%B4.jar;md5; e80798750eca57470f29d1942bce39bb",
-"spider":"https://gitee.com/zzzlllmmm1/a1/raw/master/fm1.jar;md5; 066fdf150e2a61ab263626883cc06be4",
- 
+//"spider":"https://gitee.com/zzzlllmmm1/a1/raw/master/fm1.jar;md5; 066fdf150e2a61ab263626883cc06be4",
+ "spider":"https://gitee.com/zzzlllmmm1/a1/raw/master/fm1130.jar;md5; 54553e25fc793a7b2e0ef88b95b560fe",
 	"wallpaper":"http://壁纸.神器每日推送.tk",
 	//"wallpaper": "http://刚刚.live/图",
 	
@@ -62,9 +62,9 @@
 
 //{"key":"csp_hbys",		"name":"简影影视（SP）",		"type":3,"api":"csp_JianYing","filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDEwMiwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xNlQyMTo0Nzo1Ni44NDUrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTE2VDIxOjQ3OjU2Ljg0NSswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjI0Mjk0OTc3NTZAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiZTI2MmY0NTEtZjE4Ni00OGQwLWE1MjctZjc5M2Q5MjUyYmYyIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjkwNTA3NTEsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.u4u99j0k5dJE5Dad_8MO53jkta13Me4D16Qfv0lkeAc"},
 //{"key":"csp_Jianying","name":"简影影视（SP）","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMzgxOSwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xM1QxNjowMjo1NC4yOTMrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTEzVDE2OjAyOjU0LjI5MyswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjM1MTY3NzM4MThAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiOTBkNGZkZTgtM2U0NC00MDExLTlhZjItZDNhMGEwYTM1ZTc4IiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjM2NjExMTgsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.7Rli6KT1wklDdLzKXtOlIjgeJouFdYswGc30t_iXoEw"},
- 
  { "key": "AppTT","name": "图图影视（SP）","type": 3, "api": "csp_Dora", "jar": "http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604","ext": "110c922de7d69804467fb83d3bb664b5"},
-{"key":"csp_AppTT","name":"图图影视（SP）","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.6.212:7788"},
+  {"key":"csp_AppTT","name":"图图影视（SP）","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.35.148:9797/api/tutuapp.php"},
+
  {"key":"新视觉","name":"新  视  觉（SP）","type":3,"api":"csp_Dy6080","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/Xsj.jar;md5;1C572CFC27EB4E334E12A22BFC60B64B"},
     {"key":"csp_CZSPP","name":"厂长资源（SP）","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},	
 	{"key":"dm77_spider", "name":"齐齐动漫（SP）", "type":3,"api":"csp_DM77", "filterable":1,"quickSearch":1,"searchable": 1},
@@ -162,15 +162,18 @@
             "quickSearch": 1,
             "filterable": 1},     
             {"key":"csp_Dm84","name":"动漫巴士（SP）","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"Zjdr","name":"追剧达人（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1", "jar": "http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604","ext":"778e8966ec0e9c0ae0b4682ad3550f40"},
-    {"key":"Tian","name":"天天影视（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1", "jar": "http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604","ext":"bdc1c75081e5e477189a463baa47e392"},
-    {"key":"Yanet","name":"奈菲影视（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349", "jar": "http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604"},
+        {"key":"Dy555","name":"555影  视（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582", "jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/ts1130.jar;md5;%20e9899f6e856e5e2a0fff91ba4e108b3f"},
+     //{"key":"世界杯","name":"一起看TV","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837", "jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/ts1130.jar;md5;%20e9899f6e856e5e2a0fff91ba4e108b3f"},
+    //{"key":"Xiaoh","name":"Xiaoh影视（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"0842c1d2a8534ec62fb3a3ed848851a7", "jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/ts1130.jar;md5;%20e9899f6e856e5e2a0fff91ba4e108b3f"},
+    {"key":"Zjdr","name":"追剧达人（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1", "jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/ts1130.jar;md5;%20e9899f6e856e5e2a0fff91ba4e108b3f","ext":"778e8966ec0e9c0ae0b4682ad3550f40"},
+    {"key":"Tian","name":"天天影视（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1", "jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/ts1130.jar;md5;%20e9899f6e856e5e2a0fff91ba4e108b3f","ext":"bdc1c75081e5e477189a463baa47e392"},
+    {"key":"Yanet","name":"奈菲影视（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349", "jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/ts1130.jar;md5;%20e9899f6e856e5e2a0fff91ba4e108b3f"},
     {"key":"Pang","name":"胖虎影院（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027", "jar": "http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604"},
-    {"key":"Hei","name":"石榴影视（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45", "jar": "http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604"},
+    {"key":"Hei","name":"石榴影视（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45", "jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/ts1130.jar;md5;%20e9899f6e856e5e2a0fff91ba4e108b3f"},
     {"key":"Lgyy","name":"蓝光影院（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1", "jar": "http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604"},
     {"key":"Smdyy","name":"神马影院（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"16705ee9f4764be8499806f52d4bf1e7","jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/tang1127.jar;md5;7d0487d3ea16a3a147c91197997a057a"},
-    {"key":"Ddys","name":"低端影视（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6", "jar": "http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604"},
-    {"key":"IKan","name":"爱看影视（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/tang1127.jar;md5;7d0487d3ea16a3a147c91197997a057a"},
+    {"key":"Ddys","name":"低端影视（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6", "jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/ts1130.jar;md5;%20e9899f6e856e5e2a0fff91ba4e108b3f"},
+    {"key":"IKan","name":"爱看影视（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/ts1130.jar;md5;%20e9899f6e856e5e2a0fff91ba4e108b3f"},
     {"key":"Czsapp","name":"厂长影院（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/tang1127.jar;md5;7d0487d3ea16a3a147c91197997a057a"},
      {"key":"Tbook","name":"听  书  网（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"d16d1517e9eaad9909cb35c55ba0b784", "jar": "http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604"},
     {"key":"Bili","name":"哔哩哔哩（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json", "jar": "http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604"},
@@ -446,10 +449,10 @@
 "jar":""
 },
         {
-      "key": "zhibo6",
+      "key": "zhiboz",
       "name": "电视直播自用",
       "type": 4,
-      "api": "http://120.53.102.254/live?url=https://zzzlllmmm.neocities.org/live.txt",
+      "api": "http://120.53.102.254/live?url=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS8zMjE3NS9saXZlLnR4dD9zaWduPXNpb1E0aFJocjJRcVVjSVhTMnFuYzZlbnRuY29mNk9OX19fV0kxajZpa0ElM0QlM0Ew",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -503,11 +506,40 @@
       "key": "zhibo5",
       "name": "电视直播六",
       "type": 4,
-      "api": "http://120.53.102.254/live2?url=http://xn--4bra.live/jar2/zb.txt",
+      "api": "http://120.53.102.254/live2?url=aHR0cHM6Ly9kb3dubG9hZC5rc3RvcmUuc3BhY2UvZG93bmxvYWQvMzQwOS9zc3MvSHpiLmpzb24=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
+
+    {
+      "key": "zhibo7",
+      "name": "电视直播七",
+      "type": 4,
+      "api": "http://120.53.102.254/live2?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA==",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "zhibo8",
+      "name": "电视直播八",
+      "type": 4,
+      "api": "http://120.53.102.254/live2?url=aHR0cDovL3cuZzkucHViOjY2LzM4MTIwMzg4OC8lRTclOUIlQjQlRTYlOTIlQUQvemIyLnR4dA==",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
+      "key": "zhibo9",
+      "name": "电视直播九",
+      "type": 4,
+      "api": "http://120.53.102.254/live2?url=aHR0cHM6Ly96enpsbGxtbW0ubmVvY2l0aWVzLm9yZy9saXZlMi50eHQ=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     
 {"key":"csp_biubiu_骚火电影","name":"骚火电影（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/shdy.json"},
 
 {"key":"kkdyPH","name":"看看电影(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
