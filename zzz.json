@@ -6,8 +6,8 @@
 // "spider":"https://jihulab.com/zzzlllmmm/TVBOXZY/-/raw/main/JAR/qf1210.jar;md5;9662174ccd8643ea0a519783eefcb29a",
  //alist饭太硬加以前规则和唐三包叠加
    // "spider":"https://jihulab.com/zzzlllmmm/TVBOXZY/-/raw/main/JAR/qf1211.jar;md5;058762074ec794e742dc44267d6d12ce",
-      "spider":"https://jihulab.com/zzzlllmmm/TVBOXZY/-/raw/main/JAR/qf1213.jar;md5;1c14a343b0571870f50be3d5880b333e",
-  
+   //   "spider":"https://jihulab.com/zzzlllmmm/TVBOXZY/-/raw/main/JAR/qf1213.jar;md5;1c14a343b0571870f50be3d5880b333e",
+   "spider":"https://jihulab.com/zzzlllmmm/TVBOXZY/-/raw/main/JAR/qf1214.jar;md5;5e55be7f862d0ca87710022460a51afd",
 	"wallpaper":"http://壁纸.神器每日推送.tk",
 	//"wallpaper": "http://刚刚.live/图",
 	
@@ -102,6 +102,7 @@
 //{"key":"Zhaozy","name":"找资源(仅搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php"},
 //{"key":"Upyunso","name":"云     搜(仅搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php"},
 //{"key":"Alips","name":"盘搜索(仅搜索)","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php"},
+{"key":"csp_app_阿里","name":"阿里影视（SP）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://aliys.cn:90/api.php/v1.vod"},
 	{"key":"mtv_XBPQ_淘剧影院","name":"淘剧影院（快速）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/zzzlllmmm/TVBOXZY/-/raw/main/淘剧影院.json"},
 {"key":"csp_Jianying1","name":"简影影视（SP）","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDIwNywiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xOFQwODo1MDo0NC44MjErMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTExLTA4VDE0OjU2OjA3LjU5NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjU1NDg4NzYyNkBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiI5MWE1ZTg4MC00ZWU5LTQyNDItYmZlOC1jMzEzNGM5Y2UzNjQiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0xMS0wOFQxNDo1NjowNy41OTQrMDg6MDAiLCJyZWdfa2V5IjoiNzQ2ODUxNjciLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjcwOTA1MDk5LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.D-Fley9cANTEZpK8WYbsQX0ebc1tlLPbz2wCa1xSB8Y"},
 //{"key":"csp_555","name":"555影 视（SP）","type":3,"api":"csp_Dy555","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
