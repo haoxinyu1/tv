@@ -1,11 +1,13 @@
 {//"spider":"https://jihulab.com/zzzlllmmm/TVBOXZY/-/raw/main/JAR/qf1217.jar;md5;e860515e566914044122f28e8f3020b2",
-"spider":"https://jihulab.com/zzzlllmmm/TVBOXZY/-/raw/main/JAR/qf1218.jar;md5;5cbd747fe607170e9d511fc4c06d745d",
+//"spider":"https://jihulab.com/zzzlllmmm/TVBOXZY/-/raw/main/JAR/qf1218.jar;md5;5cbd747fe607170e9d511fc4c06d745d",
+"spider":"https://jihulab.com/zzzlllmmm/TVBOXZY/-/raw/main/JAR/qf1229.jar;md5;19fb62e418f6a14cf50d85ed7aff740b",
 	"wallpaper":"https://tool.weetai.cn/api",
 
 	
     "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS8zMjE3NS9saXZlLnR4dD9zaWduPXNpb1E0aFJocjJRcVVjSVhTMnFuYzZlbnRuY29mNk9OX19fV0kxajZpa0ElM0QlM0Ew"]}] }],
   
-    "sites": [	   
+    "sites": [	
+     
 		{"key":"csp_SP360","name":"360影视（官解）","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"csp_xBPQ_乐猪影视","name":"乐猪影视（可搜）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/zzzlllmmm/TVBOXZY/-/raw/main/xBPQ/乐猪.json"},
 		 //可用，但是分辨率低不能搜索{"key": "Lezhu_spider","name": "乐猪影视（SP）","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},   
@@ -25,7 +27,7 @@
 			"filterable": 1
 		},
   	{"key":"csp_Nmys","name":"农民影视（SP）","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xn--m7r412advb92j21st65a.tk/json/nmys.json"},
-	  
+	  {"key":"csp_BuLei","name":"布雷影视（SP）","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},  
          {
             "key": "csp_Kunyu77",
             "name": "酷云七七（SP）",
@@ -623,16 +625,20 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/naifeigou.json"
 		},
 		{
-			"key": "云镜",
-			"name": "️💲云镜影视(规则)",
+			"key": "云锦",
+			"name": "💲云镜影视(规则)",
 			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/yunjing1.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+			"api": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/lib/drpy.min.js",
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/yunjing.js"
 		},
+		{
+			"key": "九库1",
+			"name": "💲九酷影视(规则)",
+			"type": 3,
+			"api": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/lib/drpy.min.js",
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/jiuku.json"
+		},
+		
 		{
 			"key": "时光",
 			"name": "️💲时光影视(规则)",
@@ -1309,6 +1315,18 @@
 		{"key":"csp_XBPQ_短视频","name":"xBPQ | 短视频","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/短视频.json"},
 		{"key":"csp_xBPQ_浮生半日","name":"xBPQ | 浮生半日","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/浮生半日.json"},
 {"key":"csp_xBPQ_看戏影视","name":"xBPQ | 看戏影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/看戏影视.json"},
+{
+			"key": "98",
+			"name": "xBPQ | 酒吧影院",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"playerType": "1",
+			"ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xb/98.json"
+		},
+		{"key":"csp_xBPQ_app","name":"xBPQ | app影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"简介：&&</li>\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",\"分类\":\"国产电视剧$13#电视剧$2#动漫$4#电影$1#综艺$3\",\"分类url\":\"https://app.movie/index.php/vod/type/id/{cateId}/page/{catePg}.html\",\"年份\":\"2000-2022\",\"筛选\":\"0\"}"},
 
 		{"key":"csp_xBPQ_子子","name":"xBPQ |子子影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/zzzlllmmm/TVBOXZY/-/raw/main/xBPQ/%E5%AD%90%E5%AD%90%E5%BD%B1%E8%A7%86.json"},
 		{"key":"csp_XBPQ_52看剧","name":"xBPQ |52看剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/52看剧.json"},
