@@ -574,8 +574,19 @@
             "playerType": "2",
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/zzzlllmmm/TVBOXZY/-/raw/main/XYQ/4K极客.json"
+            "ext": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/XYQH/4K极客.json"
         },
+        {
+			"key": "4K",
+			"name": "💲4K资源网(规则)",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"playerType": "1",
+			"ext": "https://agit.ai/xiaohewanwan/atest/raw/branch/master/4kvm.json"
+		},
         {
 			"key": "qiyou",
 			"name": "️💲奇优影院(规则)",
@@ -584,8 +595,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/qiyou.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/qiyou.json"
 		},
 		{
 			"key": "外剧",
@@ -595,8 +605,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/waiju.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/waiju.json"
 		},
 		 
         	{
@@ -644,8 +653,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e8%bf%bd%e5%89%a7%e5%85%94.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e8%bf%bd%e5%89%a7%e5%85%94.json"
 		},
          {
             "key": "katu",
@@ -923,8 +931,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/shiguang.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/shiguang.json"
 		},
         {
             "key": "素白白", 
@@ -1349,7 +1356,12 @@
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/188ys.json",
             "jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
         },
-       
+       {"key":"1dtvPH","name":"💲壹度影视(规则)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/1dtvPH.json"
+},
+{"key":"viplangPH","name":"💲VIP蓝光(规则)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/viplanguangPH.json"},
+
 {"key":"mtv_xp_焦炭直链","name":"💦焦炭直链","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/焦炭直链.json"},
 {"key":"mtv_xp_人人影视","name":"💦人人影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/人人影视.json"},
 {"key":"mtv_xp_红领巾源","name":"💦红领巾源","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/红领巾源.json"},
@@ -1623,9 +1635,6 @@
 },
 
 
-
-
-
 {"key":"csp_XYQBiu_虎牙直播","name":"xBPQ | 虎牙直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/XYQxb/虎牙直播.json"},
 {"key":"csp_XYQBiu_斗鱼","name":"xBPQ | 斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk//XYQxb/斗鱼直播.json"},      
 {
@@ -1638,7 +1647,16 @@
 			"filterable": 0,
 			"ext": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/XBPQ/555.json"
 		},
-	
+	{"key":"6080PQ","name":"xBPQ | 6080电影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/6080dyPQ.json"},
+ {"key":"91fPQ","name":"xBPQ | 91f影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/91freePQ.json"},
+ {"key":"sryyPQ","name":"xBPQ | 私人影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/sryyPQ.json"},
+{"key":"reboPQ","name":"xBPQ | 热播影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/reboPQ.json"},
+ 
+ 
 		{
 			"key": "NT动漫",
 			"name": "xBPQ | NT 动漫",
@@ -1649,6 +1667,16 @@
 			"searchable": 1,
 			"playerType": "2",
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/dongman.json"
+		},
+		{
+			"key": "zzz动漫",
+			"name": "xBPQ | zzz动漫",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/zzzdm1.json"
 		},
 		 {"key": "csp_xBPQ_dyxs",
 "name": "xBPQ | 电影先生","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
@@ -2481,7 +2509,7 @@
     
        // {"key":"csp_xpath_zaixiandianying8","name":"在线电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/zaixiandianying8.json"},
 
-{"key":"csp_xpath_xfeiji","name":"小小影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/xfeiji.json"},
+{"key":"csp_xpath_xfeiji","name":"小小影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/65012833/Json/raw/branch/master/xiaoxiaoyingshi.json"},
 
 {"key":"csp_xpath_xuangz","name":"尘落电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/xuangz.json"},
 
@@ -2616,7 +2644,8 @@
 	{"key": "drpy_js_好多影视","name": " 🎐好多影视[DRPY]","type": 3,"api": "https://raw.iqiq.io/heroaku/TVboxo/main/libs/drpy.min.js","ext": "https://raw.iqiq.io/heroaku/TVboxo/main/Js/好多影视.js"},
 	{"key": "drpy_js_偲霖影视","name": " 🎐偲霖影视[DRPY]","type": 3,"api": "https://raw.iqiq.io/heroaku/TVboxo/main/libs/drpy.min.js","ext": "https://raw.iqiq.io/heroaku/TVboxo/main/Js/偲霖影视.js"},
 	  {"key": "drpy_js_TF影院","name": " 🎐TF影院[DRPY]","type": 3,"api": "https://raw.iqiq.io/heroaku/TVboxo/main/libs/drpy.min.js","ext": "https://raw.iqiq.io/heroaku/TVboxo/main/Js/TF影院.js"},
-	
+	{"key": "drpy_js_朴樱花影视","name": "🎐朴樱花影视[DRPY]","type": 3,"api": "https://raw.iqiq.io/heroaku/TVboxo/main/libs/drpy.min.js","ext": "https://raw.iqiq.io/heroaku/TVboxo/main/Js/朴樱影视.js"},
+ 
    
 {"key":"drpy_js_2099电影","name":"🎐2099电影[DRPY]","type":3,"api":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/zzzlllmmm/TVBOXZY/-/raw/main/js/2099电影.js"},
 {"key":"drpy_js_碟调影视","name":"🎐碟调影视[DRPY]","type":3,"api":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/zzzlllmmm/TVBOXZY/-/raw/main/js/碟调影视.js"},
