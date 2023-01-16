@@ -95,7 +95,7 @@
 	{"key":"csp_panghu","name":"胖虎影视（SP）","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1}, 
 //{"key":"csp_Jianying1","name":"简影影视（SP）","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDIwNywiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xOFQwODo1MDo0NC44MjErMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTExLTA4VDE0OjU2OjA3LjU5NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjU1NDg4NzYyNkBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiI5MWE1ZTg4MC00ZWU5LTQyNDItYmZlOC1jMzEzNGM5Y2UzNjQiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0xMS0wOFQxNDo1NjowNy41OTQrMDg6MDAiLCJyZWdfa2V5IjoiNzQ2ODUxNjciLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjcwOTA1MDk5LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.D-Fley9cANTEZpK8WYbsQX0ebc1tlLPbz2wCa1xSB8Y"},
 //{"key":"csp_555","name":"555影 视（SP）","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AppTT","name":"图图影视（SP）","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.107:9911"},
+{"key":"csp_AppTT","name":"图图影视（SP）","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.107:9955"},
  { "key": "AppTT","name": "图图影视（TS）","type": 3, "api": "csp_Dora","ext": "110c922de7d69804467fb83d3bb664b5"},
 //  {"key":"csp_AppTT","name":"图图影视（SP）","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.107:7799/api/tutuapp.php"},
 {
