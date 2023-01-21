@@ -3576,7 +3576,6 @@
 {"name":"Q1官解","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20230117?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"星辰云解析","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=22ea7ae4746073f5ea13e9079c024c7d&url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"云星解析","type":1,"url":"https://chaloli.cn/api/?key=454af70ae4c2f8369527a16413ed27ba&url=","header":{"User-Agent":"Mozilla/5.0"}},
-{"name":"福气","type": 0,"url": "https://play.fuqizhishi.com/xiaobai/API.php?appkey=xiaoqun&url="},
  {"name":"风起兖州","type": 0,"url": "http://jx.gbxy.net.cn/?url="},
 {"name":"自","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20221230?url="},
 {"name":"清风2","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
