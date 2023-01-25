@@ -52,7 +52,7 @@
 {"key":"csp_Bili","name":"哔哩套餐（B站）","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"http://w.g9.pub:66/381203888/json/bilibili_2.json"},
 
 {"key":"演唱会","name":"哔哩演唱（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/ych.json"},
- 
+ {"key": "春节","name": "春节快乐（B站）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e6%98%a5%e8%8a%82.json"},
 {"key":"csp_Paper","name":"小 纸 条1（云盘）","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
 
             		{"key": "Gitcafe2","name": "️小 纸 条2（云盘）","type": 3,
@@ -1721,6 +1721,16 @@
 		{"key":"csp_xp_789kp","name":"💦789看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/789kp.json"},
 
 //只能搜索，不显示名称
+  {
+            "key": "csp_biubiu_零度",
+            "name": "️💠零度影院",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://ldtv.top/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
+            {"key":"xb_CT","name":"💠影视CITY", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.citydy.com/show/id-{cateId}/page/{catePg}.html" },
 {"key":"csp_xb_1080ys","name":"💠1080影视(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://1080p.tv/vodshow/{cateId}--------{catePg}---"},
 {"key":"csp_xb_huix","name":"💠回响影视(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://hxys.tv/vodshow/{cateId}-{area}-------{catePg}---{year}.html"},
 {"key":"csp_Jiuku","name":"💠九酷影院(R)","type":3,"api":"csp_XBiu","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jiuku.site/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
@@ -2664,6 +2674,15 @@
 		
    {"key":"haiwaicaiji","name":" 海外看影视(切)","type":0,"api":"https://haiwaikan.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
    {"key":"非凡采集","name":" 非凡影视(切)","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":0,"filterable":0},
+   {
+    "key":"量子资源去广告",
+    "name":"量子资源(去广告)",
+    "type":1,
+    "api":"http://cj.lziapi.com/api.php/provide/vod/",
+    "searchable":1,
+    "quickSearch":1,
+    "m3u8ads":"hd.youyhn.com||vip.lz"
+},
    {"key":"量子采集","name":" 量子资源(切)","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":0,"filterable":0},
    {"key":"csp_appysv2_M2_haiwai影视","name":"淘片影视(切)","type":0,"api":"https://taopianapi.com/home/cjapi/as/mc/vod/xml","searchable":1,"quickSearch":0,"filterable":0},
    {"key": "1080zyk","name": " 1080ZYK(切)","type": 1,"api": "https://api.1080zyku.com/inc/api_mac10.php",	"searchable": 1,"quickSearch": 0}, 
