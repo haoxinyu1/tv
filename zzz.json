@@ -80,7 +80,7 @@
  
  {
       "key": "AList",
-      "name": "AList2(可搜索)",
+      "name": "AList2 (可搜索)",
       "type": 3,
       "api": "csp_AList",
       "searchable": 1,
@@ -1182,6 +1182,8 @@
             "filterable": 0, 
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/cehsi.json"
         }, 
+        {"key":"kkdyPH","name":"💲看看影视2(规则)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/kkdyPH.json"},
         {
             "key": "稀饭", 
             "name": "️💲稀饭影视(规则)", 
@@ -1426,7 +1428,7 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/yszj.json"
         }, 
         {
-            "key": "freeok", 
+            "key": "Freeok2", 
             "name": "️💲freeok影视(规则)", 
             "type": 3, 
             "api": "csp_XYQHiker", 
@@ -2185,7 +2187,8 @@
         	
   {"key":"csp_xBPQ_锐行影院","name":" xBPQ | 锐行影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/zzzlllmmm1/TVboxo/main/XBPQ/ruixingjs.json"},
     {"key":"csp_xBPQ_1080TV","name":" xBPQ | 1080TV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/1080在线.json"},
-    {"key":"csp_xBPQ_看一看影视","name":"xBPQ | 看一看影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ/看一看影视.json"},
+    {"key":"csp_xBPQ_看看影视","name":"xBPQ | 看看影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/kkdyPQ.json"},
+      {"key":"csp_xBPQ_看看影视","name":"xBPQ | 看一看影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/kanykPQ.json"},
   
 		{"key":"csp_xBPQ_333影视","name":"xBPQ | 333影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/333影视.json"},
 	
@@ -3644,10 +3647,119 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=","header":{"User-Agent":"Mozilla/5.0"}},
-{"name":"Q1官解","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20230117?url=","header":{"User-Agent":"Mozilla/5.0"}},
+
+{
+			"name": "Q1官解",
+			"type": 1,
+			"url": "http://150.158.175.250:88/parse/sign/38c0c56102aff0059284be4e9f54eb11?url=",
+			"header": {
+				"User-Agent": "Mozilla/5.0"
+			}
+		},
 {"name":"星辰云解析","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=22ea7ae4746073f5ea13e9079c024c7d&url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"云星解析","type":1,"url":"https://chaloli.cn/api/?key=454af70ae4c2f8369527a16413ed27ba&url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"福气","type":1,"url":"https://play.fuqizhishi.com/xiaobai/API.php?appkey=xiaoqun&url=","header":{"User-Agent":"Mozilla/5.0"}},
+{
+			"name": "懒懒2",
+			"type": 1,
+			"url": "http://lanlan.ckflv.cn/?url=",
+			"ext": {
+				"flag": [
+					"qiyi",
+					"qq",
+					"letv",
+					"sohu",
+					"youku",
+					"mgtv",
+					"bilibili",
+					"wasu",
+					"xigua",
+					"1905"
+				]
+			}
+		},
+		{
+			"name": "dy6g",
+			"type": 0,
+			"url": "https://vip.lianfaka.com/vip/?url=",
+			"ext": {
+				"flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu", "xigua", "1905"],
+				"header": {
+					"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+					"Referer": "https://www.dy6g.com/"
+				}
+			}
+		},
+		{
+			"name": "布雷",
+			"type": 0,
+			"url": "https://bf.bulei.cc/player/?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯"
+				]
+			}
+		},
+		{
+			"name": "兰花解析",
+			"type": 0,
+			"url": "http://pandown.pro/app/ysmjx.php?url=",
+			"ext": {
+				"flag": [
+					"rx",
+					"ltnb",
+					"renrenmi",
+					"rongxing",
+					"bilibili",
+					"哔哩哔哩",
+					"哔哩",
+					"youku",
+					"优酷",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"qq",
+					"腾讯",
+					"mgtv",
+					"芒果",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"xigua",
+					"CL4K",
+					"西瓜"
+				]
+			}
+		},
+		{
+			"name": "时光解析",
+			"type": 0,
+			"url": "https://v.shigys.com/addons/dp/player/index.php?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"mgtv",
+					"芒果",
+					"rx",
+					"ltnb",
+					"bilibili",
+					"1905",
+					"xigua"
+				]
+			}
+		},
  {"name":"风起兖州","type": 0,"url": "http://jx.gbxy.net.cn/?url="},
 {"name":"自","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20221230?url="},
 {"name":"清风2","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
