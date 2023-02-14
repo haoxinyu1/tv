@@ -6,12 +6,11 @@
 
 	"wallpaper":"https://tool.weetai.cn/api",
 
-	"lives":[
-{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3p6emxsbG1tbTEvVFZib3hvMy9yYXcvYnJhbmNoL21haW4vbGl2ZS50eHQ="]}]}],
+	
   // "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS8zODYyMC9saXZlLnR4dD9zaWduPVhWaFZBMGlBbUFld0pwa2NVMGRCZTlsck9XQnRuZU12T0JXSFRTRkRBMHMlM0QlM0Ew"]}] }],
     	
     	
-   // "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3p6emxsbG1tbTEvenp6bGxsbW1tL3Jhdy9icmFuY2gvbWFzdGVyL2xpdmUudHh0"]}] }],
+    "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3p6emxsbG1tbTEvenp6bGxsbW1tL3Jhdy9icmFuY2gvbWFzdGVyL2xpdmUudHh0"]}] }],
   
     "sites": [	
      
@@ -155,7 +154,7 @@
     //{"key":"sliu_spider", "name":"石榴电影（SP）", "type":3,"api":"csp_ShiLiuDY","filterable":1,"quickSearch":1,"searchable":1},
       
 
-            {"key":"csp_Dy1010","name":"双十电影（SP）","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/zzzlllmmm/TVBOXZY/-/raw/main/JAR/Yoursmile.jar"},
+            {"key":"csp_Dy1010","name":"双十电影（SP）","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 
         {"key":"csp_Bd","name":"Bidi影 视（SP）","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Ysgc","name":"工厂影视（SP）","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.fun"},
