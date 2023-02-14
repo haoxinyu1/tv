@@ -7,10 +7,10 @@
 	"wallpaper":"https://tool.weetai.cn/api",
 
 	
-   // "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS8zMjE3NS9saXZlLnR4dD9zaWduPXNpb1E0aFJocjJRcVVjSVhTMnFuYzZlbnRuY29mNk9OX19fV0kxajZpa0ElM0QlM0Ew"]}] }],
+   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS8zODYyMC9saXZlLnR4dD9zaWduPVhWaFZBMGlBbUFld0pwa2NVMGRCZTlsck9XQnRuZU12T0JXSFRTRkRBMHMlM0QlM0Ew"]}] }],
     	
     	
-    "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3p6emxsbG1tbTEvenp6bGxsbW1tL3Jhdy9icmFuY2gvbWFzdGVyL2xpdmUudHh0"]}] }],
+   // "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3p6emxsbG1tbTEvenp6bGxsbW1tL3Jhdy9icmFuY2gvbWFzdGVyL2xpdmUudHh0"]}] }],
   
     "sites": [	
      
@@ -19,8 +19,8 @@
 		 //可用，但是分辨率低不能搜索{"key": "Lezhu_spider","name": "乐猪影视（SP）","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},   
 		 
 
-{"key":"csp_app_源头","name":"肥猫影院（专线）","type":1,"api":"http://我是.肥猫.love:63/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"categories": ["蓝光专区","动漫高清","电影","电视剧","综艺","动漫","哔哩哔哩","动作片","国产动漫"]},
 
+{"key":"csp_app_源头","name":"肥猫影院（专线）","type":1,"api":"http://我是.肥猫.love:63/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playurl":"https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url="},
 {"key": "xcys","name": "星辰影视（专线）","type":1,"api":"http://tv.cpkey.cn/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"fl":"520520","categories": ["电影","电视剧","综艺","动漫"
 ]},
  {"key":"js豆瓣","name":"豆瓣热播┃D首页","type":3,"api":"https://jihulab.com/zzzlllmmm/TVBOXZY/-/raw/main/js/drpy2.min.js","ext":"https://jihulab.com/zzzlllmmm/TVBOXZY/-/raw/main/js/js_drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
